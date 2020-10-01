@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:systemMetadata xmlns:ns2="http://ns.dataone.org/service/types/v1" xmlns:ns3="http://ns.dataone.org/service/types/v2.0">
+    <serialVersion>0</serialVersion>
+    <identifier>203f1106-8464-4bcd-a82c-665f0927ec49</identifier>
+    <formatId>application/octet-stream</formatId>
+    <size>227</size>
+    <checksum algorithm="SHA-1">cc8e937e20229877f53f4953a3803332465be47e</checksum>
+    <submitter>http://orcid.org/0000-0002-1756-2128</submitter>
+    <rightsHolder>http://orcid.org/0000-0002-1756-2128</rightsHolder>
+    <accessPolicy>
+        <allow>
+            <subject>public</subject>
+            <permission>read</permission>
+        </allow>
+        <allow>
+            <subject>https://orcid.org/0000-0002-1756-2128</subject>
+            <permission>changePermission</permission>
+        </allow>
+    </accessPolicy>
+    <replicationPolicy replicationAllowed="true" numberReplicas="3"/>
+    <archived>false</archived>
+    <dateUploaded>2020-10-01T17:22:38.948+00:00</dateUploaded>
+    <dateSysMetadataModified>2020-10-01T17:22:38.948+00:00</dateSysMetadataModified>
+    <originMemberNode>urn:node:METACAT_TEST</originMemberNode>
+    <authoritativeMemberNode>urn:node:METACAT_TEST</authoritativeMemberNode>
+    <fileName>plot.py</fileName>
+</ns3:systemMetadata>

@@ -1,0 +1,99 @@
+<rdf:RDF
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://purl.org/spar/cito/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.1="http://www.w3.org/ns/prov#"
+    xmlns:ore="http://www.openarchives.org/ore/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" > 
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/82c21595-4c4e-48d7-be67-deca4918f71f">
+    <j.1:atLocation>modeling/plotAndSumsSpEffect.R</j.1:atLocation>
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/95ebe078-92b3-44ca-a7a0-1d7180c293ea"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">82c21595-4c4e-48d7-be67-deca4918f71f</dcterms:identifier>
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_95ebe078-92b3-44ca-a7a0-1d7180c293ea#aggregation"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A0">
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Foresite ORE Library</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/18fa4e4c-2bab-43fa-92a2-b79eba8937bb">
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/95ebe078-92b3-44ca-a7a0-1d7180c293ea"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18fa4e4c-2bab-43fa-92a2-b79eba8937bb</dcterms:identifier>
+    <j.1:atLocation>scripts/AgeSex_1seasonpre_annS_spEffect.txt</j.1:atLocation>
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_95ebe078-92b3-44ca-a7a0-1d7180c293ea#aggregation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_95ebe078-92b3-44ca-a7a0-1d7180c293ea#aggregation">
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/e9957875-5500-4d33-94e1-367b069660e2"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/11ede213-a987-4ee8-b61a-71d1f979a44b"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/95ebe078-92b3-44ca-a7a0-1d7180c293ea"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/91f5aba8-51bd-4ffb-b07d-b406db270680"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/c57766b0-c14e-46ed-ab76-9df4a68ebcc5"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/733f5eca-e03a-43e2-825a-e2452afc475e"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/867ca474-56a2-4429-98b4-7a87f3031e90"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/82c21595-4c4e-48d7-be67-deca4918f71f"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/18fa4e4c-2bab-43fa-92a2-b79eba8937bb"/>
+    <dc:title>DataONE Aggregation</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DataONE R Client</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/91f5aba8-51bd-4ffb-b07d-b406db270680">
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/95ebe078-92b3-44ca-a7a0-1d7180c293ea"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91f5aba8-51bd-4ffb-b07d-b406db270680</dcterms:identifier>
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_95ebe078-92b3-44ca-a7a0-1d7180c293ea#aggregation"/>
+    <j.1:atLocation>scripts/AgeSex_1seasonpost_annS_spEffect.txt</j.1:atLocation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_95ebe078-92b3-44ca-a7a0-1d7180c293ea">
+    <dc:creator rdf:nodeID="A0"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-01T16:42:58Z</dcterms:modified>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">resource_map_95ebe078-92b3-44ca-a7a0-1d7180c293ea</dcterms:identifier>
+    <ore:describes rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_95ebe078-92b3-44ca-a7a0-1d7180c293ea#aggregation"/>
+    <dcterms:creator rdf:nodeID="A1"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/867ca474-56a2-4429-98b4-7a87f3031e90">
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_95ebe078-92b3-44ca-a7a0-1d7180c293ea#aggregation"/>
+    <j.1:atLocation>modeling/runBrownieSpEffect.R</j.1:atLocation>
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/95ebe078-92b3-44ca-a7a0-1d7180c293ea"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">867ca474-56a2-4429-98b4-7a87f3031e90</dcterms:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/95ebe078-92b3-44ca-a7a0-1d7180c293ea">
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/c57766b0-c14e-46ed-ab76-9df4a68ebcc5"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">95ebe078-92b3-44ca-a7a0-1d7180c293ea</dcterms:identifier>
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/733f5eca-e03a-43e2-825a-e2452afc475e"/>
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/91f5aba8-51bd-4ffb-b07d-b406db270680"/>
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/18fa4e4c-2bab-43fa-92a2-b79eba8937bb"/>
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/11ede213-a987-4ee8-b61a-71d1f979a44b"/>
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/e9957875-5500-4d33-94e1-367b069660e2"/>
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/82c21595-4c4e-48d7-be67-deca4918f71f"/>
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/867ca474-56a2-4429-98b4-7a87f3031e90"/>
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_95ebe078-92b3-44ca-a7a0-1d7180c293ea#aggregation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/11ede213-a987-4ee8-b61a-71d1f979a44b">
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/95ebe078-92b3-44ca-a7a0-1d7180c293ea"/>
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_95ebe078-92b3-44ca-a7a0-1d7180c293ea#aggregation"/>
+    <j.1:atLocation>modeling/run_all_models.R</j.1:atLocation>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11ede213-a987-4ee8-b61a-71d1f979a44b</dcterms:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/733f5eca-e03a-43e2-825a-e2452afc475e">
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/95ebe078-92b3-44ca-a7a0-1d7180c293ea"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">733f5eca-e03a-43e2-825a-e2452afc475e</dcterms:identifier>
+    <j.1:atLocation>modeling/runSingleSeasonBrownieSpEffect.R</j.1:atLocation>
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_95ebe078-92b3-44ca-a7a0-1d7180c293ea#aggregation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/e9957875-5500-4d33-94e1-367b069660e2">
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/95ebe078-92b3-44ca-a7a0-1d7180c293ea"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">e9957875-5500-4d33-94e1-367b069660e2</dcterms:identifier>
+    <j.1:atLocation>scripts/AgeSex_2season_annS_spEffect_Small.txt</j.1:atLocation>
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_95ebe078-92b3-44ca-a7a0-1d7180c293ea#aggregation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/c57766b0-c14e-46ed-ab76-9df4a68ebcc5">
+    <j.1:atLocation>modeling/browniems_speffect.Rmd</j.1:atLocation>
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_95ebe078-92b3-44ca-a7a0-1d7180c293ea#aggregation"/>
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/95ebe078-92b3-44ca-a7a0-1d7180c293ea"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">c57766b0-c14e-46ed-ab76-9df4a68ebcc5</dcterms:identifier>
+  </rdf:Description>
+</rdf:RDF>

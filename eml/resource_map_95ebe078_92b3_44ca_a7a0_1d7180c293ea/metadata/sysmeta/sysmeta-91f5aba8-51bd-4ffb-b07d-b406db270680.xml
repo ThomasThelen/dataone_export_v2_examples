@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:systemMetadata xmlns:ns2="http://ns.dataone.org/service/types/v1" xmlns:ns3="http://ns.dataone.org/service/types/v2.0">
+    <serialVersion>0</serialVersion>
+    <identifier>91f5aba8-51bd-4ffb-b07d-b406db270680</identifier>
+    <formatId>application/octet-stream</formatId>
+    <size>3333</size>
+    <checksum algorithm="SHA-1">52fcf86dbe98ee08074cf44f65e0d3a6449e2f4b</checksum>
+    <submitter>http://orcid.org/0000-0002-1756-2128</submitter>
+    <rightsHolder>http://orcid.org/0000-0002-1756-2128</rightsHolder>
+    <accessPolicy>
+        <allow>
+            <subject>public</subject>
+            <permission>read</permission>
+        </allow>
+        <allow>
+            <subject>https://orcid.org/0000-0002-1756-2128</subject>
+            <permission>changePermission</permission>
+        </allow>
+    </accessPolicy>
+    <replicationPolicy replicationAllowed="true" numberReplicas="3"/>
+    <archived>false</archived>
+    <dateUploaded>2020-10-01T16:42:55.313+00:00</dateUploaded>
+    <dateSysMetadataModified>2020-10-01T16:42:55.313+00:00</dateSysMetadataModified>
+    <originMemberNode>urn:node:METACAT_TEST</originMemberNode>
+    <authoritativeMemberNode>urn:node:METACAT_TEST</authoritativeMemberNode>
+    <fileName>AgeSex_1seasonpost_annS_spEffect.txt</fileName>
+</ns3:systemMetadata>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:systemMetadata xmlns:ns2="http://ns.dataone.org/service/types/v1" xmlns:ns3="http://ns.dataone.org/service/types/v2.0">
+    <serialVersion>0</serialVersion>
+    <identifier>189b4fc4-49b8-443a-8593-26ef5d31557a</identifier>
+    <formatId>eml://ecoinformatics.org/eml-2.0.0</formatId>
+    <size>2990</size>
+    <checksum algorithm="SHA-1">806792451dfb6e10ff73f26a8ad7e34047bb52ea</checksum>
+    <submitter>http://orcid.org/0000-0002-1756-2128</submitter>
+    <rightsHolder>http://orcid.org/0000-0002-1756-2128</rightsHolder>
+    <accessPolicy>
+        <allow>
+            <subject>public</subject>
+            <permission>read</permission>
+        </allow>
+        <allow>
+            <subject>https://orcid.org/0000-0002-1756-2128</subject>
+            <permission>changePermission</permission>
+        </allow>
+    </accessPolicy>
+    <replicationPolicy replicationAllowed="true" numberReplicas="3"/>
+    <archived>false</archived>
+    <dateUploaded>2020-10-01T17:22:38.261+00:00</dateUploaded>
+    <dateSysMetadataModified>2020-10-01T17:22:38.261+00:00</dateSysMetadataModified>
+    <originMemberNode>urn:node:METACAT_TEST</originMemberNode>
+    <authoritativeMemberNode>urn:node:METACAT_TEST</authoritativeMemberNode>
+    <fileName>eml.xml</fileName>
+</ns3:systemMetadata>
