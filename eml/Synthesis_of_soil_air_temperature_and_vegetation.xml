@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="doi:10.18739/A2736M31X" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 eml.xsd https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd" system="https://doi.org">
+  <dataset>
+    <title>Synthesis of soil-air temperature and vegetation measurements in the pan-Arctic. 1990-2016</title>
+    <creator id="3273248405261254">
+      <individualName>
+        <givenName>Heather</givenName>
+        <surName>Kropp</surName>
+      </individualName>
+      <organizationName>Hamilton College</organizationName>
+      <positionName>Assistant Professor</positionName>
+      <address>
+        <deliveryPoint>Environmental Studies</deliveryPoint>
+        <deliveryPoint>198 College Hill Rd</deliveryPoint>
+        <city>Clinton</city>
+        <administrativeArea>NY</administrativeArea>
+        <postalCode>13233</postalCode>
+        <country>United States</country>
+      </address>
+      <electronicMailAddress>hkropp@hamilton.edu</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0002-4258-3393</userId>
+    </creator>
+    <creator id="6953909150705350">
+      <individualName>
+        <givenName>Michael</givenName>
+        <surName>Loranty</surName>
+      </individualName>
+      <organizationName>Colgate University</organizationName>
+      <positionName>Associate Professor</positionName>
+      <address>
+        <deliveryPoint>Geography Department</deliveryPoint>
+        <deliveryPoint>13 Oak Dr</deliveryPoint>
+        <city>Hamilton</city>
+        <administrativeArea>NY</administrativeArea>
+        <postalCode>13346-1338</postalCode>
+      </address>
+      <electronicMailAddress>mloranty@colgate.edu</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0001-8851-7386</userId>
+    </creator>
+    <creator id="4254832431959292">
+      <individualName>
+        <givenName>Britta</givenName>
+        <surName>Sannel</surName>
+      </individualName>
+      <organizationName>Department of Physical Geography, Stockholm University</organizationName>
+      <electronicMailAddress>britta.sannel@natgeo.su.se</electronicMailAddress>
+    </creator>
+    <creator id="3971815308331527">
+      <individualName>
+        <givenName>Jonathan</givenName>
+        <surName>O'Donnell</surName>
+      </individualName>
+      <organizationName>Arctic Network, National Park Service</organizationName>
+      <electronicMailAddress>jaodonnell@nps.gov</electronicMailAddress>
+    </creator>
+    <creator id="3321819139074532">
+      <individualName>
+        <givenName>Elena</givenName>
+        <surName>Blanc-Betes</surName>
+      </individualName>
+      <organizationName>University of Illinois at Urbana-Champaign, Institute for Sustainability, Energy and Environment</organizationName>
+      <electronicMailAddress>mblanc7@illinois.edu</electronicMailAddress>
+    </creator>
+    <creator id="5690076971082026">
+      <individualName>
+        <givenName>Sean</givenName>
+        <surName>Cahoon</surName>
+      </individualName>
+      <organizationName>USDA Forest Service, Pacific Northwest Research Station</organizationName>
+      <electronicMailAddress>sean.cahoon@usda.gov</electronicMailAddress>
+    </creator>
+    <creator id="7588557286366733">
+      <individualName>
+        <givenName>Steven</givenName>
+        <surName>Mamet</surName>
+      </individualName>
+      <organizationName>College of Agriculture and Bioresources, Department of Soil Science, University of Saskatchewan,</organizationName>
+      <electronicMailAddress>steven.mamet@usask.ca</electronicMailAddress>
+    </creator>
+    <creator id="3848552573119672">
+      <individualName>
+        <givenName>Daan</givenName>
+        <surName>blok</surName>
+      </individualName>
+      <organizationName>Dutch Research Council (NWO)</organizationName>
+      <electronicMailAddress>daanblok@gmail.com</electronicMailAddress>
+    </creator>
+    <creator id="8801842445370189">
+      <individualName>
+        <givenName>Ken</givenName>
+        <surName>Tape</surName>
+      </individualName>
+      <organizationName>Geophysical Institute, University of Alaska Fairbanks</organizationName>
+      <electronicMailAddress>kdtape@alaska.edu</electronicMailAddress>
+    </creator>
+    <creator id="8023202615063165">
+      <individualName>
+        <givenName>Marguerite</givenName>
+        <surName>Mauritz</surName>
+      </individualName>
+      <organizationName>University of Texas at El Paso, Biological Sciences</organizationName>
+      <electronicMailAddress>memauritz@utep.edu</electronicMailAddress>
+    </creator>
+    <creator id="9356822336296032">
+      <individualName>
+        <givenName>Mathew</givenName>
+        <surName>Williams</surName>
+      </individualName>
+      <organizationName>University of Edinburgh, School of GeoSciences</organizationName>
+      <electronicMailAddress>mat.williams@ed.ac.uk</electronicMailAddress>
+    </creator>
+    <creator id="3130412197757272">
+      <individualName>
+        <givenName>Julia</givenName>
+        <surName>Boike</surName>
+      </individualName>
+      <organizationName>Alfred Wegener Institute Helmholtz Center for Polar and Marine Research</organizationName>
+      <electronicMailAddress>Julia.Boike@awi.de</electronicMailAddress>
+    </creator>
+    <creator id="2413467259095042">
+      <individualName>
+        <givenName>Inge</givenName>
+        <surName>Grunberg</surName>
+      </individualName>
+      <organizationName>Alfred Wegener Institute Helmholtz Center for Polar and Marine Research</organizationName>
+      <electronicMailAddress>inge.gruenberg@awi.de</electronicMailAddress>
+    </creator>
+    <creator id="1692593604366520">
+      <individualName>
+        <givenName>Peter</givenName>
+        <surName>Lafleur</surName>
+      </individualName>
+      <organizationName>Trent University, School of the Environment</organizationName>
+      <electronicMailAddress>plafleur@trentu.ca</electronicMailAddress>
+    </creator>
+    <creator id="8474318671990111">
+      <individualName>
+        <givenName>Eugenie</givenName>
+        <surName>Euskirchen</surName>
+      </individualName>
+      <organizationName>University of Alaska Fairbanks, Institute of Arctic Biology</organizationName>
+      <electronicMailAddress>seeuskirchen@alaska.edu</electronicMailAddress>
+    </creator>
+    <creator id="7893098010256764">
+      <individualName>
+        <givenName>Oliver</givenName>
+        <surName>Sonnentag</surName>
+      </individualName>
+      <organizationName>Departement de geographie, Universite de Montreal Centre d etudes nordiques</organizationName>
+      <electronicMailAddress>oliver.sonnentag@umontreal.ca</electronicMailAddress>
+    </creator>
+    <creator id="5623632212833277">
+      <individualName>
+        <givenName>Jan</givenName>
+        <surName>Hjort</surName>
+      </individualName>
+      <organizationName>University of Oulu, Geography Research Unit</organizationName>
+      <electronicMailAddress>jan.hjort@oulu.fi</electronicMailAddress>
+    </creator>
+    <creator id="8274598267867914">
+      <individualName>
+        <givenName>M. Torre</givenName>
+        <surName>Jorgenson</surName>
+      </individualName>
+      <organizationName>Alaska Ecoscience</organizationName>
+      <electronicMailAddress>ecoscience@alaska.net</electronicMailAddress>
+    </creator>
+    <creator id="3859761491899362">
+      <individualName>
+        <givenName>Isla</givenName>
+        <surName>Myers-Smith</surName>
+      </individualName>
+      <organizationName>School of GeoSciences, University of Edinburgh</organizationName>
+      <electronicMailAddress>isla.myers-smith@ed.ac.uk</electronicMailAddress>
+    </creator>
+    <creator id="8116635801574373">
+      <individualName>
+        <givenName>David</givenName>
+        <surName>Olefeldt</surName>
+      </individualName>
+      <organizationName>Department of Renewable Resources, University of Alberta</organizationName>
+      <electronicMailAddress>olefeldt@ualberta.ca</electronicMailAddress>
+    </creator>
+    <creator id="3494146322788474">
+      <individualName>
+        <givenName>Kirsty</givenName>
+        <surName>Langley</surName>
+      </individualName>
+      <organizationName>Asiaq, Greenland Survey</organizationName>
+      <electronicMailAddress>kal@asiaq.gl</electronicMailAddress>
+    </creator>
+    <creator id="2616662463355569">
+      <individualName>
+        <givenName>Magnus</givenName>
+        <surName>Lund</surName>
+      </individualName>
+      <organizationName>Department of Bioscience and Arctic Research Centre, Aarhus University</organizationName>
+      <electronicMailAddress>magnus.lund@telia.com</electronicMailAddress>
+    </creator>
+    <creator id="2214411209216869">
+      <individualName>
+        <givenName>Mathias</givenName>
+        <surName>Goeckede</surName>
+      </individualName>
+      <organizationName>Max Planck Institute for Biogeochemistry</organizationName>
+      <electronicMailAddress>mgoeck@bgc-jena.mpg.de</electronicMailAddress>
+    </creator>
+    <creator id="7611796177274989">
+      <individualName>
+        <givenName>Laura</givenName>
+        <surName>Gough</surName>
+      </individualName>
+      <organizationName>Towson University, Department of Biological Sciences</organizationName>
+      <electronicMailAddress>lgough@towson.edu</electronicMailAddress>
+    </creator>
+    <creator id="3445547902835956">
+      <individualName>
+        <givenName>Gerald</givenName>
+        <surName>Frost</surName>
+      </individualName>
+      <organizationName>Alaska Biological Research, Inc.</organizationName>
+      <electronicMailAddress>jfrost@abrinc.com</electronicMailAddress>
+    </creator>
+    <creator id="7920325893665165">
+      <individualName>
+        <givenName>Casper</givenName>
+        <surName>Christiansen</surName>
+      </individualName>
+      <organizationName>Center for Permafrost (CENPERM), Department of Geocience and Natural Resource Management, University of Copenhagen</organizationName>
+      <electronicMailAddress>christiansen.ct@gmail.com</electronicMailAddress>
+    </creator>
+    <creator id="2529753566476828">
+      <individualName>
+        <givenName>Hiroki</givenName>
+        <surName>Iwata</surName>
+      </individualName>
+      <organizationName>Department of Environmental Science, Shinshu University</organizationName>
+      <electronicMailAddress>hiwata@shinshu-u.ac.jp</electronicMailAddress>
+    </creator>
+    <creator id="7023308323942203">
+      <individualName>
+        <givenName>Adrian</givenName>
+        <surName>Rocha</surName>
+      </individualName>
+      <organizationName>University of Notre Dame, Department of Biological Sciences; the Environmental Change Initiative</organizationName>
+      <electronicMailAddress>arocha1@nd.edu</electronicMailAddress>
+    </creator>
+    <creator id="6514604686013773">
+      <individualName>
+        <givenName>Thomas</givenName>
+        <surName>Douglas</surName>
+      </individualName>
+      <organizationName>U.S. Army Cold Regions Research and Engineering Laboratory</organizationName>
+      <electronicMailAddress>Thomas.a.douglas@usace.army.mil</electronicMailAddress>
+    </creator>
+    <creator id="2611126890972716">
+      <individualName>
+        <givenName>Amy</givenName>
+        <surName>Breen</surName>
+      </individualName>
+      <organizationName>International Arctic Research Center, University of Alaska Fairbanks</organizationName>
+      <electronicMailAddress>albreen@alaska.edu</electronicMailAddress>
+    </creator>
+    <creator id="5049652556058312">
+      <individualName>
+        <givenName>Kim</givenName>
+        <surName>Yongwon</surName>
+      </individualName>
+      <organizationName>University of Alaska Fairbanks, International Arctic Research Center</organizationName>
+      <electronicMailAddress>kimywjp@gmail.com</electronicMailAddress>
+    </creator>
+    <pubDate>2020</pubDate>
+    <abstract>
+      <para>This data was compiled for a data synthesis of plot scale studies aimed at understanding the impact of vegetation on soil-air temperature coupling throughout the permafrost region. The aim of this study was to determine whether vegetation impacts on soil temperature were consistent across a broad geographic scope and multiple studies. The data synthesis originated from discussions in the annual Permafrost Carbon Network meeting recognizing the need for a comprehensive assessment of plot scale studies of vegetation and soil temperature. Observations were compiled from 32 collaborators with 235 unique locations, and were initially collected as part of individual field studies lead by each collaborator. All soil and air temperature data were averaged at the daily timescale prior to inclusion in this data set.</para>
+    </abstract>
+    <keywordSet>
+      <keyword>SOIL TEMPERATURE</keyword>
+      <keyword>ALPINE/TUNDRA</keyword>
+      <keyword>EVERGREEN VEGETATION</keyword>
+      <keyword>WETLANDS</keyword>
+      <keyword>PERMAFROST</keyword>
+      <keywordThesaurus>GCMD</keywordThesaurus>
+    </keywordSet>
+    <intellectualRights>
+      <para>This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.</para>
+    </intellectualRights>
+    <distribution>
+      <online>
+        <url>http://doi.org/doi:10.18739/A2736M31X</url>
+      </online>
+    </distribution>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>Pan-Actic dataconsisting of 235 site locations. A full table of site locations can be found in the siteinfo data table.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-163.711</westBoundingCoordinate>
+          <eastBoundingCoordinate>161.506</eastBoundingCoordinate>
+          <northBoundingCoordinate>78.9208</northBoundingCoordinate>
+          <southBoundingCoordinate>57.47799</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>1990</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2016</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+    </coverage>
+    <contact id="1442296612177204">
+      <individualName>
+        <givenName>Heather</givenName>
+        <surName>Kropp</surName>
+      </individualName>
+      <organizationName>Hamilton University</organizationName>
+      <address>
+        <deliveryPoint>Geography Department</deliveryPoint>
+        <deliveryPoint>13 Oak Dr</deliveryPoint>
+        <city>Hamilton</city>
+        <administrativeArea>NY</administrativeArea>
+        <postalCode>13346-1338</postalCode>
+        <country>United States</country>
+      </address>
+      <electronicMailAddress>hkropp@hamilton.edu</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0002-4258-3393</userId>
+    </contact>
+    <publisher id="8003394423564412">
+      <organizationName>NSF Arctic Data Center</organizationName>
+      <electronicMailAddress>support@arcticdata.io</electronicMailAddress>
+      <onlineUrl>http://arcticdata.io</onlineUrl>
+      <userId directory="unknown">Q77285095</userId>
+    </publisher>
+    <methods>
+      <methodStep>
+        <description>
+          <para>A call for data was sent out to ecology and Arctic research communities. Data contributors submitted Excel files to Kropp and Loranty containing air and soil temperatures along with vegetation data.</para>
+        </description>
+      </methodStep>
+      <methodStep>
+        <description>
+          <para>Soil and air temperature were collected as daily averages of either hourly or half-hourly data. Data needed also needed to be collected consecutively throughout the year to be included in the data set. All data coauthors also identified the dominant type of vegetation associated with each study site.</para>
+        </description>
+      </methodStep>
+      <methodStep>
+        <description>
+          <para>Kropp did initial quality control measures verifying site metadata was complete, checking for timestamp issues, and verifying that missing data was identified using R statistical software. These csv files were uploaded to a relational database using PostgreSQL. Further QA/QC was conducted on this in data analysis for publication and was specific to the scope of the study. Further information on additional QA/QC measures that may be relevant to this dataset can be found at DOI: 10.5281/zenodo.3862730</para>
+        </description>
+      </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>All data was accepted so long as measurements were taken in a site with permafrost present in the Arctic or sub-Arctic. Soil and air temperature were collected as daily averages of either hourly or half-hourly data, and needed at least the majority of one year present. Any complete submission was included.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>All data was collected using soil and air temperature probes logging at hourly or half-hourly intervals using data loggers by the individual collaborators. Measurements were averaged to the daily time scale.</para>
+        </samplingDescription>
+      </sampling>
+    </methods>
+    <project>
+      <title>Collaborative Research:  Vegetation And Ecosystem Impacts On Permafrost Vulnerability</title>
+      <personnel>
+        <individualName>
+          <givenName>Michael</givenName>
+          <surName>Loranty</surName>
+        </individualName>
+        <role>principalInvestigator</role>
+      </personnel>
+      <award>
+        <funderName>National Science Foundation</funderName>
+        <funderIdentifier>https://doi.org/10.13039/00000001</funderIdentifier>
+        <awardNumber>1417745</awardNumber>
+        <title>Collaborative Research:  Vegetation And Ecosystem Impacts On Permafrost Vulnerability</title>
+        <awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=1417745</awardUrl>
+      </award>
+    </project>
+    <dataTable id="urn-uuid-610e812c-746d-4a85-a088-ec4bb1ea9fc5" system="https://tools.ietf.org/html/rfc4122">
+      <entityName>Air Temperature</entityName>
+      <entityDescription>Average daily air temperature observations</entityDescription>
+      <physical>
+        <objectName>air_temp.csv</objectName>
+        <size unit="bytes">7557559</size>
+        <authentication method="SHA1">2ee4c7a3481b551f67e7f42fc4f95760c7c3fa5e</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://cn.dataone.org/cn/v2/resolve/urn:uuid:610e812c-746d-4a85-a088-ec4bb1ea9fc5</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>doy_st</attributeName>
+          <attributeLabel>Day of Year for observation</attributeLabel>
+          <attributeDefinition>The day of year for the air temperature observation.</attributeDefinition>
+          <measurementScale>
+            <ordinal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Ordered count of days in the year 1- 365 or 1-366 for leap years</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </ordinal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>year_ai</attributeName>
+          <attributeLabel>Year</attributeLabel>
+          <attributeDefinition>Year of observation</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY</formatString>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute id="entity_air_attribute_temp">
+          <attributeName>air_t</attributeName>
+          <attributeLabel>Air temperature</attributeLabel>
+          <attributeDefinition>Air temperature in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            <interval>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </interval>
+          </measurementScale>
+          <missingValueCode>
+            <code>NaN</code>
+            <codeExplanation>missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Air Temperature">http://purl.dataone.org/odo/ECSO_00001225</valueURI>
+          </annotation>
+        </attribute>
+        <attribute>
+          <attributeName>air_height</attributeName>
+          <attributeLabel>height of sensor</attributeLabel>
+          <attributeDefinition>Height of air temperature sensor in meters</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>site_id</attributeName>
+          <attributeLabel>site unique identifier</attributeLabel>
+          <attributeDefinition>Unique identifier for each site location</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>unique identifier</definition>
+                  <pattern>[0-9]{1,6}</pattern>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable id="urn-uuid-2c117af0-a7ab-4103-8ae5-ba646c3dcd8f" system="https://tools.ietf.org/html/rfc4122">
+      <entityName>Vegetation ID</entityName>
+      <entityDescription>Descriptions of the vegetation classifications that were used for each study location.</entityDescription>
+      <physical>
+        <objectName>vegeID.csv</objectName>
+        <size unit="bytes">987</size>
+        <authentication method="MD5">2a430a2e3bf79cef2cd19f5d7db1db34eb95e44a</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://cn.dataone.org/cn/v2/resolve/urn:uuid:2c117af0-a7ab-4103-8ae5-ba646c3dcd8f</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute id="kwV4tMgAkdScN4na3BEDOAmdyeZT2a">
+          <attributeName>vegeclass</attributeName>
+          <attributeLabel>Vegetation class unique identifier</attributeLabel>
+          <attributeDefinition>Unique identifier linked to vegetation classification. This identifier is used in other data tables to indicate the vegetation classification associated with an observation</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Unique identifier</definition>
+                  <pattern>[0-9]</pattern>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute id="kbbPhi82GLBT0FFfPwsIKdTV3vTtwO">
+          <attributeName>vegename</attributeName>
+          <attributeLabel>Name of vegetation classification</attributeLabel>
+          <attributeDefinition>The names used to refer to each vegetation classification</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Any text</definition>
+                  <pattern>*</pattern>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute id="bRbrtz7zUH4I851mC2aG22Z0FdLwCy">
+          <attributeName>vegedescription</attributeName>
+          <attributeLabel>Description of criteria for vegetation classification</attributeLabel>
+          <attributeDefinition>A written description of the vegetation classification criteria</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Any text</definition>
+                  <pattern>*</pattern>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable id="urn-uuid-b0fbb57a-02fe-468c-a967-8ba9c94d4edc" system="https://tools.ietf.org/html/rfc4122">
+      <entityName>vege_class.csv</entityName>
+      <entityDescription>A table linking site identifiers to vegetation classification identifiers.</entityDescription>
+      <physical>
+        <objectName>vege_class.csv</objectName>
+        <size unit="bytes">1556</size>
+        <authentication method="MD5">65a5bd99c3b53e83d6381f8ddf44cd5eb3798569</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://cn.dataone.org/cn/v2/resolve/urn:uuid:b0fbb57a-02fe-468c-a967-8ba9c94d4edc</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute id="sTwlqDQGJsRXaPQMMUdMenCOgHUyq5">
+          <attributeName>site_id</attributeName>
+          <attributeLabel>Unique identifier of the study location</attributeLabel>
+          <attributeDefinition>Identifies the each unique study location.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Unique identifier</definition>
+                  <pattern>[0-9]{3}</pattern>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute id="6duB7PwKSXzOWuO9ATGLF0UEuLymLO">
+          <attributeName>vegeclass</attributeName>
+          <attributeLabel>Vegetation classification unique idenfier</attributeLabel>
+          <attributeDefinition>Unique identifier for vegetation classification. A full description of the classification associated with each identifier can be found in the vegeID table.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>unique identifier</definition>
+                  <pattern>[0-9]</pattern>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable id="urn-uuid-eb6255ce-d35c-4e6c-ae69-259dbc528c18" system="https://tools.ietf.org/html/rfc4122">
+      <entityName>Soil Temperature</entityName>
+      <entityDescription>Average daily soil temperature at each site location.</entityDescription>
+      <physical>
+        <objectName>soil_temp.csv</objectName>
+        <size unit="bytes">26586631</size>
+        <authentication method="MD5">3b55c604afdb70159482c39a574f4796f582db6c</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://cn.dataone.org/cn/v2/resolve/urn:uuid:eb6255ce-d35c-4e6c-ae69-259dbc528c18</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>doy_st</attributeName>
+          <attributeLabel>Day of Year for observation</attributeLabel>
+          <attributeDefinition>The day of year for the soil temperature observation.</attributeDefinition>
+          <measurementScale>
+            <ordinal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Ordered count of days in the year 1- 365 or 1-366 for leap years</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </ordinal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>year_st</attributeName>
+          <attributeLabel>Year of observation</attributeLabel>
+          <attributeDefinition>Year of soil temperature observation</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY</formatString>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute id="entity_soil_attribute_temp">
+          <attributeName>soil_t</attributeName>
+          <attributeLabel>Soil temperature observation</attributeLabel>
+          <attributeDefinition>Soil temperature observation in degrees Celsius. Missing data is marked with NaN and -999.</attributeDefinition>
+          <measurementScale>
+            <interval>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </interval>
+          </measurementScale>
+          <missingValueCode>
+            <code>-999</code>
+            <codeExplanation>missing data</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>NaN</code>
+            <codeExplanation>missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature">http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute>
+        <attribute>
+          <attributeName>st_depth</attributeName>
+          <attributeLabel>Depth of soil sensor</attributeLabel>
+          <attributeDefinition>Depth of soil sensor from the ground surface</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>site_id</attributeName>
+          <attributeLabel>Unique site identifier</attributeLabel>
+          <attributeDefinition>Unique site location identifier. All site location information can be found in the siteinfo table</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Unique identifier</definition>
+                  <pattern>[0-9]{1,3}</pattern>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>stemp_id</attributeName>
+          <attributeLabel>Unique identifier for each soil temperature measurement entry</attributeLabel>
+          <attributeDefinition>Unique identifier integer for each soil measurement instance in the data (each row)</attributeDefinition>
+          <measurementScale>
+            <ordinal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Ordered count of soil measurement instances, number ranging from 1-877305</definition>
+                  <pattern>[0-9]{1,6}</pattern>
+                </textDomain>
+              </nonNumericDomain>
+            </ordinal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable id="urn-uuid-d43b4cec-02d5-40be-8c7f-021daafc7316" system="https://tools.ietf.org/html/rfc4122">
+      <entityName>siteinfo.csv</entityName>
+      <entityDescription>Information on site location.</entityDescription>
+      <physical>
+        <objectName>siteinfo.csv</objectName>
+        <size unit="bytes">5846</size>
+        <authentication method="MD5">601502e210249fd04c2e8fe59c4a1c0f25a4436a</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://cn.dataone.org/cn/v2/resolve/urn:uuid:d43b4cec-02d5-40be-8c7f-021daafc7316</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>site_id</attributeName>
+          <attributeLabel>Unique site identifier</attributeLabel>
+          <attributeDefinition>Unique identifier for each unique study location in the study</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Unique identifier</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>lat</attributeName>
+          <attributeLabel>Latitude</attributeLabel>
+          <attributeDefinition>Decimal degree latitude of the study location provided by data contributor. All values are north of the equator.</attributeDefinition>
+          <measurementScale>
+            <interval>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </interval>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>lon</attributeName>
+          <attributeLabel>Longitude</attributeLabel>
+          <attributeDefinition>Longitude of study location. Eastern Hemisphere values are positive and western hemisphere values are negative.</attributeDefinition>
+          <measurementScale>
+            <interval>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </interval>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ctbr_id</attributeName>
+          <attributeLabel>unique identifier for contributor</attributeLabel>
+          <attributeDefinition>Unique identifier for each individual data each data contributor to the synthesis. Contact details for each contributor are withheld from this data set, but more information can be provided by contacting the creators of this data. This identifier links to the data_cite table that indicates if any aspects of the data in this synthesis may be already publicly available.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Unique identifier</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+    <dataTable id="urn-uuid-6079bf65-f3f8-47c8-a08e-1d1b56553f88" system="https://tools.ietf.org/html/rfc4122">
+      <entityName>Data Citations</entityName>
+      <entityDescription>List of citations where contributors have indicated that their portions of their data is available.</entityDescription>
+      <physical>
+        <objectName>data_cite.csv</objectName>
+        <size unit="bytes">2729</size>
+        <authentication method="MD5">99f5d57ffe16a2df3374e8b576ccbb7b7da8c46f</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://cn.dataone.org/cn/v2/resolve/urn:uuid:6079bf65-f3f8-47c8-a08e-1d1b56553f88</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute id="E4dTTeWJd4wSogMG36g0Vl868BwsPp">
+          <attributeName>ctbr_id</attributeName>
+          <attributeLabel>Contributor Identifier</attributeLabel>
+          <attributeDefinition>Unique identifier assigned to each contributor</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Unique identifier</definition>
+                  <pattern>[0-9]{2}</pattern>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute id="ReyhGqMvNILA2SBhQlDmldhuPmD4lB">
+          <attributeName>Existing_cite</attributeName>
+          <attributeLabel>citation information</attributeLabel>
+          <attributeDefinition>Citation information indicating if any portions of a data set may exist publicly in another location.</attributeDefinition>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Any text</definition>
+                  <pattern>*</pattern>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+    </dataTable>
+  </dataset>
+</eml:eml>

@@ -1,0 +1,3 @@
+Payload-Oxum: 556561.8
+Bagging-Date: 2020-09-30
+Bag-Size: 635 KB

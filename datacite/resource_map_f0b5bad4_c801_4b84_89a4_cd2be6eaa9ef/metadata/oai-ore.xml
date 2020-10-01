@@ -1,0 +1,99 @@
+<rdf:RDF
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://purl.org/spar/cito/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.1="http://www.w3.org/ns/prov#"
+    xmlns:ore="http://www.openarchives.org/ore/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" > 
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/ae0b160d-bbfc-46f3-9620-7b105ec8fe61">
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef#aggregation"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ae0b160d-bbfc-46f3-9620-7b105ec8fe61</dcterms:identifier>
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef"/>
+    <j.1:atLocation>./models/speciescomplex_nocrops.R</j.1:atLocation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef">
+    <dc:creator rdf:nodeID="A0"/>
+    <ore:describes rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef#aggregation"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-01T04:42:12Z</dcterms:modified>
+    <dcterms:creator rdf:nodeID="A1"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">resource_map_f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef</dcterms:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/7dd3004e-6a24-4b6d-a636-1358e4c465db">
+    <j.1:atLocation>./data/ospreebb_forknb.csv</j.1:atLocation>
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef#aggregation"/>
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7dd3004e-6a24-4b6d-a636-1358e4c465db</dcterms:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/22c16cb2-8b3d-49c2-b835-9eb8947bbbab">
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22c16cb2-8b3d-49c2-b835-9eb8947bbbab</dcterms:identifier>
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef"/>
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef#aggregation"/>
+    <j.1:atLocation>/models/speciescomplex.R</j.1:atLocation>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A0">
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Foresite ORE Library</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/1f9d0bf8-4d45-451f-8b19-6bc86c393348">
+    <j.1:atLocation>./data/bb_zscorepreds.R</j.1:atLocation>
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1f9d0bf8-4d45-451f-8b19-6bc86c393348</dcterms:identifier>
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef#aggregation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/0172eec0-06ef-486f-beba-ccbe2548415c">
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0172eec0-06ef-486f-beba-ccbe2548415c</dcterms:identifier>
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef#aggregation"/>
+    <j.1:atLocation>./data/flags_for_models_knb.R</j.1:atLocation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef#aggregation">
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/1f9d0bf8-4d45-451f-8b19-6bc86c393348"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/22c16cb2-8b3d-49c2-b835-9eb8947bbbab"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/fdcd5e9f-f69c-4222-9ec3-561ba289bbf6"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/ae0b160d-bbfc-46f3-9620-7b105ec8fe61"/>
+    <dc:title>DataONE Aggregation</dc:title>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/4ef85d32-ddaa-486c-95ec-33a8a69664f8"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/7dd3004e-6a24-4b6d-a636-1358e4c465db"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/a4a9bdfc-11d4-4ec5-9ad3-e0fae07ab68c"/>
+    <ore:aggregates rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/0172eec0-06ef-486f-beba-ccbe2548415c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/a4a9bdfc-11d4-4ec5-9ad3-e0fae07ab68c">
+    <j.1:atLocation>./data/bbstanleadin_knb.R</j.1:atLocation>
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef"/>
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef#aggregation"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">a4a9bdfc-11d4-4ec5-9ad3-e0fae07ab68c</dcterms:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/fdcd5e9f-f69c-4222-9ec3-561ba289bbf6">
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fdcd5e9f-f69c-4222-9ec3-561ba289bbf6</dcterms:identifier>
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef#aggregation"/>
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef"/>
+    <j.1:atLocation>./data/models_stan_knb.R</j.1:atLocation>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Agent"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DataONE R Client</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef">
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/fdcd5e9f-f69c-4222-9ec3-561ba289bbf6"/>
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/a4a9bdfc-11d4-4ec5-9ad3-e0fae07ab68c"/>
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/22c16cb2-8b3d-49c2-b835-9eb8947bbbab"/>
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef#aggregation"/>
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/0172eec0-06ef-486f-beba-ccbe2548415c"/>
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/4ef85d32-ddaa-486c-95ec-33a8a69664f8"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef</dcterms:identifier>
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/ae0b160d-bbfc-46f3-9620-7b105ec8fe61"/>
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/1f9d0bf8-4d45-451f-8b19-6bc86c393348"/>
+    <j.0:documents rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/7dd3004e-6a24-4b6d-a636-1358e4c465db"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cn-stage-2.test.dataone.org/cn/v2/resolve/4ef85d32-ddaa-486c-95ec-33a8a69664f8">
+    <ore:isAggregatedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/resource_map_f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef#aggregation"/>
+    <dcterms:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4ef85d32-ddaa-486c-95ec-33a8a69664f8</dcterms:identifier>
+    <j.1:atLocation>./models/speciescomplex_multcues.R</j.1:atLocation>
+    <j.0:isDocumentedBy rdf:resource="https://cn-stage-2.test.dataone.org/cn/v2/resolve/f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef"/>
+  </rdf:Description>
+</rdf:RDF>

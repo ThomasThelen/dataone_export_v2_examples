@@ -1,0 +1,10 @@
+vegeclass,vegename,vegedescription
+1,herb-barren,"Bare ground with sparse herbaceous or grass plant cover (< 40% compared to bare ground). Bare ground may be mineral, soil, rock or exposed soil from disturbance. Moss is not considered bare ground."
+2,nontussock graminoid tundras,"Non-tussock sedge, graminoid, or rush dominated tundra"
+3,tussock tundras,Tussock forming sedge dominated tundra
+4,short shrub tundra,Prostrate/hemiprostrate and small dwarf shrub dominated tundra (shrub height generally less than 40 cm tall)
+5,"tall, erect shrub tundra",Erect dwarf shrub or low shrub tundra (shrub height generally more than  40 cm tall)
+6,wetlands,"Flooded tundra throughout the growing season dominated by sedge, grass, moss, or shrub"
+7,evergreen needleaf boreal,Evergreen needleleaf trees are dominant
+8,deciduous needleaf boreal,Deciduous needleleaf trees are dominant
+9,mixed boreal,A mixture of deciduous broadleaf or needleleaf and evergreen needleaf trees is dominant

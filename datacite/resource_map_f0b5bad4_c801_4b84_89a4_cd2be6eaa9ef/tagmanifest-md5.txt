@@ -1,0 +1,16 @@
+6760f3b8177c7393e34dbcea9e0d39f8  metadata/sysmeta/sysmeta-7dd3004e-6a24-4b6d-a636-1358e4c465db.xml
+c772a51178963cb885c6aaeb352b5845  metadata/sysmeta/sysmeta-ae0b160d-bbfc-46f3-9620-7b105ec8fe61.xml
+6661ef11fa35f0975b6b2dd7cc4f18c9  metadata/oai-ore.xml
+f8ea5a251a1901fcce7b35a48c211fc4  metadata/sysmeta/sysmeta-0172eec0-06ef-486f-beba-ccbe2548415c.xml
+3cbb41ba5328076f9dfbd61f5ac3fab3  metadata/sysmeta/sysmeta-22c16cb2-8b3d-49c2-b835-9eb8947bbbab.xml
+3cf2643fc61460433f2030736f7346c8  metadata/sysmeta/sysmeta-fdcd5e9f-f69c-4222-9ec3-561ba289bbf6.xml
+2e88de836f440ad4817d08a565106631  manifest-md5.txt
+f5a97a89a6d90aec90da5c187b85bab9  bag-info.txt
+9a0fc0a0fe93435d57b7f19a9733be4c  metadata/sysmeta/sysmeta-1f9d0bf8-4d45-451f-8b19-6bc86c393348.xml
+80d0a4b574b26949e1e2a8d4715b4928  metadata/sysmeta/sysmeta-a4a9bdfc-11d4-4ec5-9ad3-e0fae07ab68c.xml
+b639788f5e2d564a25b3ba80b65c28ab  metadata/sysmeta/sysmeta-4ef85d32-ddaa-486c-95ec-33a8a69664f8.xml
+54358288ac0d9d087d453a8f80380de9  metadata/sysmeta/sysmeta-resource_map_f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef.xml
+2873776dfac6c7441d72ee342732c70a  metadata/sysmeta/sysmeta-f0b5bad4-c801-4b84-89a4-cd2be6eaa9ef.xml
+9e5ad981e0d29adc278f6a294b8c2aca  bagit.txt
+a1c71dfbd6f6f84fc06c14b66f0d01da  README.html
+118797a2266ecf9cbc778801603a6505  metadata/datacite.xml

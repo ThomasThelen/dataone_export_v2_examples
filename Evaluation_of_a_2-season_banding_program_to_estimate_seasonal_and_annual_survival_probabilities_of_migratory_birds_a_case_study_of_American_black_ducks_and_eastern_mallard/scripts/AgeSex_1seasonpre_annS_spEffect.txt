@@ -1,0 +1,105 @@
+#-------------------------------------------------------------------------------
+model {
+# Priors for hunting season survival rates
+# Priors for hunting season survival rates
+#for(i in 1:(nyrs-1)){
+#	eyr[i] ~ dnorm(0,0.444)
+#}
+
+
+
+for(s in 1:nspecies){
+	for(i in 1:(nyrs-1)){
+		mu.am[s,i] ~ dnorm(0,0.444)
+		mu.af[s,i] ~ dnorm(0,0.444)
+		mu.jm[s,i] ~ dnorm(0,0.444)
+		mu.jf[s,i] ~ dnorm(0,0.444)
+	}
+	# Priors for recovery rates
+	for(i in 1:nyrs){
+		f.am[s,i] ~ dbeta(1,1)
+		f.af[s,i] ~ dbeta(1,1)
+		f.jm[s,i] ~ dbeta(1,1)
+		f.jf[s,i] ~ dbeta(1,1)
+	}
+}
+
+
+# Create species-, cohort-, and year-specific survival probabilities
+for(s in 1:nspecies){
+	for(i in 1:(nyrs-1)){
+		logit(S.am[s,i]) <- mu.am[s,i] #+ eyr[i]
+		logit(S.af[s,i]) <- mu.af[s,i] #+ eyr[i] 
+		logit(S.jm[s,i]) <- mu.jm[s,i] #+ eyr[i] 
+		logit(S.jf[s,i]) <- mu.jf[s,i] #+ eyr[i]  
+	}
+}
+
+##### PRE-SEASON BANDED BIRDS
+	for(s in 1:nspecies){
+	##### Cell Probabilities: Adult Preseason- Banded Birds
+		# Diagonals
+		for(i in 1:(nyrs-1)){
+			recoveries.am[s,i,i] <- f.am[s,i]
+			recoveries.af[s,i,i] <- f.af[s,i]
+			for(j in (i+1):nyrs){
+				recoveries.am[s,i,j] <- f.am[s,j]*prod(S.am[s,i:(j-1)])
+				recoveries.af[s,i,j] <- f.af[s,j]*prod(S.af[s,i:(j-1)])
+				recoveries.am[s,j,i] <- 0
+				recoveries.af[s,j,i] <- 0
+			}
+		}
+		recoveries.am[s,nyrs,nyrs] <- f.am[s,nyrs]
+		recoveries.af[s,nyrs,nyrs] <- f.af[s,nyrs]
+		# Not recovered
+		for(i in 1:nyrs){
+			recoveries.am[s,i,(nyrs+1)] <- 1 - sum(recoveries.am[s,i,1:nyrs])
+			recoveries.af[s,i,(nyrs+1)] <- 1 - sum(recoveries.af[s,i,1:nyrs])
+		}
+
+	##### Likelihood
+		for(i in 1:nyrs){
+			recovmat.am[s,i,1:(nyrs+1)] ~ dmulti(recoveries.am[s,i,1:(nyrs+1)], relmat.am[s,i])
+			recovmat.af[s,i,1:(nyrs+1)] ~ dmulti(recoveries.af[s,i,1:(nyrs+1)], relmat.af[s,i])
+		}
+
+	#-----------------------------------------------------------------------------------
+	##### Cell Probabilities: Juvenile Preseason- Banded Birds
+		# Diagonals
+		for(i in 1:nyrs){
+			recoveries.jm[s,i,i] <- f.jm[s,i]
+			recoveries.jf[s,i,i] <- f.jf[s,i]
+		}
+		# First off diagonal
+		for(i in 1:(nyrs-1)){
+			recoveries.jm[s,i,(i+1)] <- f.am[s,(i+1)]*S.jm[s,i]
+			recoveries.jf[s,i,(i+1)] <- f.af[s,(i+1)]*S.jf[s,i]
+		}
+		# Rest
+		for(i in 1:(nyrs-2)){
+			for(j in (i+2):nyrs){
+				recoveries.jm[s,i,j] <- f.am[s,j]*S.jm[s,i]*prod(S.am[s,(i+1):(j-1)])
+				recoveries.jf[s,i,j] <- f.af[s,j]*S.jf[s,i]*prod(S.af[s,(i+1):(j-1)])
+			}
+		}
+		# Lower triangular is all zeros
+		for(i in 1:(nyrs-1)){
+			for(j in (i+1):nyrs){
+				recoveries.jm[s,j,i] <- 0
+				recoveries.jf[s,j,i] <- 0
+			}
+		}
+		# Not recovered
+		for(i in 1:nyrs){
+			recoveries.jm[s,i,(nyrs+1)] <- 1 - sum(recoveries.jm[s,i,1:nyrs])
+			recoveries.jf[s,i,(nyrs+1)] <- 1 - sum(recoveries.jf[s,i,1:nyrs])
+		}
+
+	##### Likelihood
+		for(i in 1:nyrs){
+			recovmat.jm[s,i,1:(nyrs+1)] ~ dmulti(recoveries.jm[s,i,1:(nyrs+1)], relmat.jm[s,i])
+			recovmat.jf[s,i,1:(nyrs+1)] ~ dmulti(recoveries.jf[s,i,1:(nyrs+1)], relmat.jf[s,i])
+		}
+}
+
+}

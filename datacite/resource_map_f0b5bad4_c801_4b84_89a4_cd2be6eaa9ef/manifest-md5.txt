@@ -1,0 +1,8 @@
+0108c854d6da63347e787ed0f651e62b  data/data/bbstanleadin_knb.R
+aa6e1768c703589cfe48540248051cfe  data/data/models_stan_knb.R
+c1cab83b8ac75b79d20ae9b132e2b8f5  data/models/speciescomplex_multcues.R
+c8ee903aefc6ae236dbe9a36e0ab322f  data/data/flags_for_models_knb.R
+516dccda4cf38428436756a60c83da27  data/data/bb_zscorepreds.R
+68b976522ea1e99b211873d343265d62  data/data/ospreebb_forknb.csv
+92aa7f5bf8aab042dc48b583369d3a5b  data/models/speciescomplex.R
+ec972d805a3862e55b12b144028dc9ed  data/models/speciescomplex_nocrops.R

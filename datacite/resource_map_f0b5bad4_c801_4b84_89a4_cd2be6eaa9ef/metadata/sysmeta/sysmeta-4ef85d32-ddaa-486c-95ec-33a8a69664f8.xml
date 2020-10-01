@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:systemMetadata xmlns:ns2="http://ns.dataone.org/service/types/v1" xmlns:ns3="http://ns.dataone.org/service/types/v2.0">
+    <serialVersion>0</serialVersion>
+    <identifier>4ef85d32-ddaa-486c-95ec-33a8a69664f8</identifier>
+    <formatId>application/octet-stream</formatId>
+    <size>7438</size>
+    <checksum algorithm="SHA-1">d188eba53fd73ce3bf1257b3d256031157cef977</checksum>
+    <submitter>http://orcid.org/0000-0002-1756-2128</submitter>
+    <rightsHolder>http://orcid.org/0000-0002-1756-2128</rightsHolder>
+    <accessPolicy>
+        <allow>
+            <subject>public</subject>
+            <permission>read</permission>
+        </allow>
+        <allow>
+            <subject>https://orcid.org/0000-0002-1756-2128</subject>
+            <permission>read</permission>
+            <permission>write</permission>
+            <permission>changePermission</permission>
+        </allow>
+    </accessPolicy>
+    <replicationPolicy replicationAllowed="true" numberReplicas="3"/>
+    <archived>false</archived>
+    <dateUploaded>2020-10-01T04:42:05.964+00:00</dateUploaded>
+    <dateSysMetadataModified>2020-10-01T04:42:05.964+00:00</dateSysMetadataModified>
+    <originMemberNode>urn:node:METACAT_TEST</originMemberNode>
+    <authoritativeMemberNode>urn:node:METACAT_TEST</authoritativeMemberNode>
+    <fileName>speciescomplex_multcues.R</fileName>
+</ns3:systemMetadata>
