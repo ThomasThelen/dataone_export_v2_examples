@@ -13,14 +13,19 @@ The uploading is done using `datapack`, downloading is done with a curl command 
 ## Folders
 
 `input-output/`: A basic package showing package struture
+
 `Evaluation_of_a_2-season_banding_program_to_estimate_seasonal_and_annual_survival_probabilities`: Uses prov:atLocation to specify the directories
+
 `datacite/`: An example of a package using the datacite format
 `eml/`: An exmple of a package using the eml format
 
 ### Pending
 `two-science-metadata/`: A package with two data files, each described by a different EML document
+
 `nested-package/`: A nested package, reframed with prov:atLocation
+
 `mets/`: An example of a package using the METS metadata format
+
 `test-tale/`: A Tale downlaoded from Whole Tale
 
 
