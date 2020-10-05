@@ -1,0 +1,1231 @@
+Transect,Material,Distance,Fraction,Species,FG,Dispersal,Total Thinned,Total Repotted,Total Pressed,Remaining,Total Count
+,,,,,,,,,,,
+T5,FFMM,3,500,Achillea millefolium,F,v,1,0,0,0,1
+T16,FFMM,10,500,Aquelegia brevistyla?,F,g,0,0,0,1,1
+T6,FFMM,3,500,Collomia linearis,F,g,8,0,1,0,9
+T28,FFMM,15,500,Collomia linearis,F,g,1,0,0,0,1
+T28,FFMM,20,500,Collomia linearis,F,g,2,0,0,1,3
+T9,FFMM,5,500,Collomia linearis?,F,g,0,0,1,0,1
+T26/28?,FFMM,10,500,Collomia linearis?,F,g,1,0,0,0,1
+T8,FFMM,0,500,Corydalis sp.,F,g,0,0,0,1,1
+T5,FFMM,10,500,Geranium,F,g,0,0,0,1,1
+T6,FFMM,3,500,Geranium bicknelii,F,g,0,0,0,1,1
+T26 at C,FFMM,0,500,Geranium bicknelii,F,g,0,0,0,1,1
+T26/28?,FFMM,10,500,Geranium bicknelii,F,g,0,0,0,1,1
+T28,FFMM,20,500,Geranium bicknelii,F,g,0,0,0,3,3
+T26 at D,FFMM,15,500,Geranium bicknellii,F,g,0,0,0,1,1
+T5,FFMM,3,500,Plantago major,F,g,20,0,0,0,20
+T5,FFMM,10,500,Plantago major,F,g,32,0,0,1,33
+T6,FFMM,10,500,Plantago major,F,g,3,0,0,0,3
+T8,FFMM,10,500,Plantago major,F,g,0,0,0,2,2
+T9,FFMM,15,500,Plantago major,F,g,1,0,0,0,1
+T26,FFMM,0,212,Plantago major,F,g,1,0,0,0,1
+T26,FFMM,3,500,Plantago major,F,g,1,0,0,0,1
+T26/28?,FFMM,10,500,Plantago major,F,g,0,0,0,2,2
+T28,FFMM,15,500,Plantago major,F,g,3,0,0,1,4
+T28,FFMM,15,212,Plantago major,F,g,1,0,0,0,1
+T28,FFMM,20,500,Plantago major,F,g,0,0,0,1,1
+T29,FFMM,15,500,Plantago major,F,g,0,0,0,1,1
+T5,FFMM,3,500,Potentilla norvegica,F,g,6,0,0,0,6
+T5,FFMM,5,500,Potentilla norvegica,F,g,2,0,0,0,2
+T6,FFMM,10,500,Potentilla norvegica,F,g,1,0,0,0,1
+T8,FFMM,0,500,Potentilla norvegica,F,g,2,0,0,0,2
+T8,FFMM,3,500,Potentilla norvegica,F,g,0,0,0,1,1
+T9,FFMM,0,500,Potentilla norvegica,F,g,0,0,0,1,1
+T9,FFMM,3,212,Potentilla norvegica,F,g,1,0,0,0,1
+T9,FFMM,5,500,Potentilla norvegica,F,g,4,0,0,2,6
+T9,FFMM,10,500,Potentilla norvegica,F,g,1,0,0,0,1
+T9,FFMM,15,500,Potentilla norvegica,F,g,7,0,0,0,7
+T25,FFMM,20,500,Potentilla norvegica,F,g,0,0,0,1,1
+T26 at D,FFMM,0,500,Potentilla norvegica,F,g,0,0,0,1,1
+T26/28?,FFMM,10,500,Potentilla norvegica,F,g,0,0,0,1,1
+T26 at D,FFMM,10,500,Potentilla norvegica,F,g,0,0,0,3,3
+T26 at D,FFMM,15,500,Potentilla norvegica,F,g,0,0,0,1,1
+T27,FFMM,5,500,Potentilla norvegica,F,g,0,0,0,1,1
+T28,FFMM,15,500,Potentilla norvegica,F,g,3,0,0,0,3
+T29,FFMM,15,500,Potentilla norvegica,F,g,0,0,0,1,1
+T29,FFMM,20,500,Potentilla norvegica,F,g,0,0,0,1,1
+T8,FFMM,10,500,Potentilla norvegica (#8),F,g,2,0,0,1,3
+T16,FFMM,5,500,Potentilla norvegica?,F,g,0,0,0,1,1
+T5,FFMM,10,500,Potentilla?,F,g,0,0,0,3,3
+T8,FFMM,0,212,Viola?,F,g,0,0,0,1,1
+T9,PMM,15,500,Astragalus ?,F,g,1,0,0,0,1
+T8,PMM,10,500,Collomia linearis,F,g,1,0,0,0,1
+T28,PMM,20,500,Collomia linearis,F,g,0,0,0,1,1
+T9,PMM,20,500,Corydalis sp.,F,g,0,0,0,1,1
+T8,PMM,10,500,Plantago major,F,g,3,0,0,0,3
+T9,PMM,20,500,Plantago major,F,g,1,0,0,0,1
+T5,PMM,3,212,Potentilla norvegica,F,g,10,0,0,0,10
+T6,PMM,5,500,Potentilla norvegica,F,g,8,0,0,3,11
+T8,PMM,10,500,Potentilla norvegica,F,g,1,0,0,0,1
+T8,PMM,15,500,Potentilla norvegica,F,g,0,0,0,1,1
+T9,PMM,20,212,Potentilla norvegica,F,g,0,0,0,1,1
+T26 at D,PMM,5,500,Potentilla norvegica,F,g,0,0,0,1,1
+T5,PMM,3,500,Potentilla?,F,g,363,0,0,0,363
+T8,PMM,5,500,Stellaria longifolia?,F,g,0,0,0,1,1
+T5,FFMM,3,500,Agropyron trachycaulon,G,g,1,0,0,0,1
+T25,FFMM,10,500,Carex,G,g,0,0,0,6,6
+T25,FFMM,10,212,Carex,G,g,0,0,0,2,2
+T25,FFMM,15,212,Carex,G,g,0,0,0,1,1
+T25,FFMM,20,212,Carex,G,g,0,0,3,3,6
+T27,FFMM,10,212,Carex,G,g,0,0,0,2,2
+T27,FFMM,15,212,Carex,G,g,0,0,0,1,1
+T5,FFMM,10,212,Carex sp.,G,g,0,0,0,1,1
+T6,FFMM,3,212,Carex sp.,G,g,0,0,0,1,1
+T6,FFMM,10,212,Carex sp.,G,g,0,0,0,2,2
+T8,FFMM,10,212,Carex sp.,G,g,0,0,0,1,1
+T9,FFMM,0,500,Carex sp.,G,g,0,0,0,1,1
+T26,FFMM,0,212,Carex sp.,G,g,0,0,0,1,1
+T26,FFMM,5,500,Carex sp.,G,g,0,0,0,4,4
+T27,FFMM,0,350,Carex sp.,G,g,0,0,0,1,1
+T28,FFMM,5,212,Carex sp.,G,g,0,0,0,2,2
+T28,FFMM,20,212,Carex sp.,G,g,0,0,0,3,3
+T29,FFMM,10,212,Carex sp.,G,g,0,0,0,1,1
+T8,FFMM,3,212,Carex sp.1,G,g,0,0,0,1,1
+T8,FFMM,10,500,Carex sp.1,G,g,0,0,0,5,5
+T9,FFMM,3,500,Carex sp.1,G,g,0,0,0,1,1
+T9,FFMM,10,500,Carex sp.1,G,g,0,0,0,1,1
+T16,FFMM,10,500,Carex sp.1,G,g,0,0,0,1,1
+T16,FFMM,10,212,Carex sp.1,G,g,0,0,0,1,1
+T26,FFMM,5,212,Carex sp.1,G,g,0,0,0,6,6
+T26/28?,FFMM,10,212,Carex sp.1,G,g,0,0,0,6,6
+T26,FFMM,20,212,Carex sp.1,G,g,0,0,0,1,1
+T29,FFMM,0,500,Carex sp.1,G,g,0,0,0,1,1
+T29,FFMM,15,212,Carex sp.1,G,g,0,0,0,1,1
+T9,FFMM,5,212,Carex sp.1?,G,g,0,0,0,1,1
+T6,FFMM,3,500,Carex sp.2,G,g,0,0,0,1,1
+T8,FFMM,0,212,Carex sp.2,G,g,0,0,0,1,1
+T8,FFMM,10,500,Carex sp.2,G,g,0,0,0,4,4
+T9,FFMM,5,500,Carex sp.2,G,g,0,0,0,1,1
+T16,FFMM,3,500,Carex sp.2,G,g,0,0,0,2,2
+T25,FFMM,5,500,Carex sp.2,G,g,0,0,0,1,1
+T26 at C,FFMM,0,500,Carex sp.2,G,g,0,0,0,1,1
+T6,FFMM,5,350,grass,G,g,0,0,0,1,1
+T8,FFMM,3,500,grass,G,g,0,0,0,5,5
+T9,FFMM,0,500,grass,G,g,0,0,0,1,1
+T9,FFMM,3,212,grass,G,g,0,0,0,1,1
+T9,FFMM,5,212,grass,G,g,0,0,0,2,2
+T9,FFMM,15,500,grass,G,g,0,0,0,3,3
+T16,FFMM,3,500,grass,G,g,0,0,0,1,1
+T16,FFMM,10,500,grass,G,g,0,0,0,1,1
+T25,FFMM,0,500,Grass,G,g,0,0,0,1,1
+T25,FFMM,5,212,grass,G,g,0,0,0,1,1
+T25,FFMM,10,500,Grass,G,g,1,0,0,1,2
+T26,FFMM,3,500,grass,G,g,0,0,0,17,17
+T26 at D,FFMM,15,500,Grass,G,g,0,0,0,2,2
+T27,FFMM,15,500,grass,G,g,0,0,0,1,1
+T28,FFMM,15,212,grass,G,g,0,0,0,1,1
+T26 at D,FFMM,10,500,grass (not Agrostis),G,g,1,0,0,4,5
+T28,FFMM,20,212,Juncus bufonius,G,g,1,0,0,0,1
+T26 at D,FFMM,0,500,Non-Agrostis scabra,G,g,1,0,0,8,9
+T29,FFMM,20,500,Non-Agrostis scabra,G,g,0,0,0,5,5
+T26 at C,FFMM,0,500,Other grass,G,g,0,0,0,2,2
+T9,FFMM,3,500,other grass?,G,g,0,0,0,3,3
+T6,PMM,5,212,Carex,G,g,0,0,0,3,3
+T25,PMM,20,500,Carex,G,g,0,0,0,1,1
+T25,PMM,20,212,Carex,G,g,0,0,0,2,2
+T27,PMM,3,212,Carex,G,g,0,0,0,1,1
+T29,PMM,5,500,Carex,G,g,0,0,0,3,3
+T9,PMM,15,212,Carex aquatilis,G,g,0,0,1,0,1
+T6,PMM,10,212,Carex sp.,G,g,0,0,0,3,3
+T6,PMM,15,212,Carex sp.,G,g,0,0,0,1,1
+T16,PMM,20,212,Carex sp.,G,g,0,0,0,1,1
+T26/28?,PMM,15,500,Carex sp.,G,g,0,0,0,1,1
+T27,PMM,5,212,Carex sp.,G,g,0,0,0,3,3
+T27,PMM,10,212,Carex sp.,G,g,0,0,0,5,5
+T29 at D,PMM,20,212,Carex sp.,G,g,0,0,0,2,2
+T27,PMM,15,212,Carex sp. 1,G,g,0,0,0,2,2
+T26 at D,PMM,3,500,Carex sp. 2,G,g,0,0,0,1,1
+T26/28?,PMM,10,500,Carex sp. 2,G,g,0,0,0,1,1
+T26 at D,PMM,10,500,Carex sp. 2,G,g,0,0,0,1,1
+T26 at D,PMM,20,500,Carex sp. 2,G,g,0,0,0,1,1
+T26 at D,PMM,3,212,Carex sp. 2?,G,g,0,0,0,1,1
+T8,PMM,5,500,Carex sp.1,G,g,0,0,0,8,8
+T8,PMM,10,212,Carex sp.1,G,g,0,0,1,0,1
+T9,PMM,15,212,Carex sp.1,G,g,0,0,0,3,3
+T9,PMM,20,212,Carex sp.1,G,g,0,0,0,3,3
+T16,PMM,3,500,Carex sp.1,G,g,0,0,0,1,1
+T16,PMM,10,500,Carex sp.1,G,g,0,0,0,2,2
+T16,PMM,20,500,Carex sp.1,G,g,1,0,0,3,4
+T8,PMM,0,500,Carex sp.2,G,g,0,0,0,1,1
+T8,PMM,5,500,Carex sp.2,G,g,0,0,0,8,8
+T8,PMM,15,500,Carex sp.2,G,g,0,0,0,3,3
+T9,PMM,15,500,Carex sp.2,G,g,0,0,0,2,2
+T9,PMM,20,212,Carex sp.2,G,g,0,0,0,1,1
+T16,PMM,3,500,Carex sp.2,G,g,0,0,0,6,6
+T16,PMM,10,500,Carex sp.2,G,g,0,0,0,4,4
+T16,PMM,20,500,Carex sp.2,G,g,0,0,0,12,12
+T26 at D,PMM,15,500,Carex sp.2,G,g,0,0,0,1,1
+T27,PMM,3,212,Carex with seedhead,G,g,0,0,1,0,1
+T6,PMM,5,500,Grass,G,g,0,0,0,1,1
+T6,PMM,10,500,grass,G,g,0,0,0,3,3
+T25,PMM,0,500,grass,G,g,0,0,0,1,1
+T26 at D,PMM,3,500,grass,G,g,0,0,0,1,1
+T26 at D,PMM,20,500,grass,G,g,166,0,0,5,171
+T27,PMM,5,212,grass,G,g,0,0,0,1,1
+T29,PMM,3,500,Grass,G,g,0,0,0,4,4
+T28/T26?,PMM,5,350,interesting palmate leaf,G,g,0,0,0,1,1
+T8,PMM,10,500,Juncus bufonius,G,g,1,0,0,0,1
+T27,PMM,15,500,other grass,G,g,0,0,0,2,2
+T29 at D,PMM,20,500,other grass/Carex?,G,g,0,0,0,2,2
+T27,PMM,5,500,upright grass / Carex sp.2,G,g,0,0,0,10,10
+T5,FFMM,10,212,Chenopodium album,I,g,1,0,0,0,1
+T6,FFMM,5,350,Chenopodium album,I,g,2,0,0,0,2
+T6,FFMM,10,500,Chenopodium album,I,g,13,0,0,0,13
+T8,FFMM,0,500,Chenopodium album,I,g,7,0,0,0,7
+T9,FFMM,0,500,Chenopodium album,I,g,2,0,0,0,2
+T9,FFMM,5,500,Chenopodium album,I,g,53,0,0,2,55
+T9,FFMM,10,212,Chenopodium album,I,g,1,0,0,0,1
+T9,FFMM,10,500,Chenopodium album,I,g,1,0,0,0,1
+T9,FFMM,15,500,Chenopodium album,I,g,15,0,0,0,15
+T9,FFMM,15,212,Chenopodium album,I,g,1,0,0,0,1
+T26 at C,FFMM,0,500,Chenopodium album,I,g,2,0,0,0,2
+T26/28?,FFMM,10,500,Chenopodium album,I,g,92,0,0,0,92
+T26 at D,FFMM,10,500,Chenopodium album,I,g,1,0,0,0,1
+T26/28?,FFMM,10,212,Chenopodium album,I,g,1,0,0,0,1
+T28,FFMM,5,500,Chenopodium album,I,g,3,0,0,0,3
+T28,FFMM,5,212,Chenopodium album,I,g,1,0,0,0,1
+T28,FFMM,15,500,Chenopodium album,I,g,83,0,0,0,83
+T28,FFMM,20,500,Chenopodium album,I,g,7,0,0,0,7
+T29,FFMM,3,500,Chenopodium album,I,g,1,0,0,0,1
+T29,FFMM,3,212,Chenopodium album,I,g,1,0,0,0,1
+T29,FFMM,10,500,Chenopodium album,I,g,2,0,0,0,2
+T29,FFMM,10,212,Chenopodium album,I,g,1,0,0,0,1
+T29,FFMM,15,500,Chenopodium album,I,g,3,0,0,1,4
+T29,FFMM,15,212,Chenopodium album,I,g,1,0,0,0,1
+T29,FFMM,20,500,Chenopodium album,I,g,6,0,0,0,6
+T27,FFMM,0,350,Chenopodium capitatium,I,g,0,0,0,11,11
+T5,FFMM,10,500,Chenopodium capitatum,I,g,2,0,0,0,2
+T9,FFMM,0,500,Chenopodium capitatum,I,g,0,0,0,1,1
+T26,FFMM,5,500,Chenopodium capitatum,I,g,0,0,0,1,1
+T26/28?,FFMM,10,500,Chenopodium capitatum,I,g,0,0,0,1,1
+T27,FFMM,20,500,Chenopodium capitatum,I,g,2,0,0,0,2
+T29,FFMM,20,500,Chenopodium capitatum,I,g,0,0,0,12,12
+T16,FFMM,3,500,Mustard,I,g,1,0,1,1,3
+T8,FFMM,10,500,Lyrate mustard (#7),I,g,0,0,1,0,1
+T29,FFMM,10,500,lyrate mustard (#7),I,g,0,0,1,0,1
+T5,FFMM,10,212,Lyrate rosette,I,g,0,0,0,2,2
+T8,FFMM,0,500,Lyrate rosette,I,g,0,0,0,1,1
+T5,FFMM,3,500,Matricaria matricarioides,I,g,604,0,0,0,604
+T5,FFMM,3,212,Matricaria matricarioides,I,g,3,0,0,1,4
+T5,FFMM,10,500,Matricaria matricarioides,I,g,1677,0,0,0,1677
+T5,FFMM,10,212,Matricaria matricarioides,I,g,4,0,0,1,5
+T16,FFMM,3,500,Matricaria matricarioides,I,g,0,0,0,1,1
+T26,FFMM,5,500,Matricaria matricarioides,I,g,2,0,0,0,2
+T5,FFMM,5,500,Matricaria matricarioides-opp dicot with 2 opp pointy leaves (wing) ,I,g,69,2,0,0,71
+T26,FFMM,3,212,Matricaria pineapple,I,g,4,0,0,0,4
+T26 at D,FFMM,0,500,Polygonum arnestrum,I,g,13,0,0,0,13
+T26 at D,FFMM,10,500,Polygonum arnestrum,I,g,1560,0,0,0,1560
+T26 at D,FFMM,0,500,Polygonum arnestrum,I,g,437,0,0,0,437
+T8,FFMM,0,500,Polygonum arenastrum,I,g,4,0,0,0,4
+T9,FFMM,10,500,Polygonum arenastrum,I,g,2,0,0,0,2
+T16,FFMM,3,500,Polygonum arenastrum,I,g,1,0,0,0,1
+T16,FFMM,5,500,Polygonum arenastrum,I,g,2,0,0,0,2
+T16,FFMM,10,500,Polygonum arenastrum,I,g,1,0,0,0,1
+T26,FFMM,5,500,Polygonum arenastrum,I,g,4,0,0,0,4
+T28,FFMM,15,500,Polygonum arenastrum,I,g,1,0,0,0,1
+T29,FFMM,10,500,Polygonum arenastrum,I,g,1,0,0,0,1
+T29,FFMM,15,500,Polygonum arenastrum,I,g,10,0,0,0,10
+T29,FFMM,20,500,Polygonum arenastrum,I,g,5,0,0,1,6
+T5,FFMM,3,500,Polygonum arenestrum,I,g,4,0,0,0,4
+T5,FFMM,10,500,Polygonum arnestrum,I,g,9,0,0,0,9
+T25,FFMM,0,500,Polygonum arnestrum,I,g,0,0,0,1,1
+T26,FFMM,3,500,Polygonum arnestrum,I,g,1,0,0,0,1
+T26 at D,FFMM,15,500,Polygonum arnestrum,I,g,8,0,0,0,8
+T27,FFMM,10,500,Polygonum convulus,I,g,1,0,0,0,1
+T5,FFMM,3,500,Polygonum lapathifolium,I,g,350,0,0,0,350
+T5,FFMM,3,500,Polygonum lapathifolium,I,g,15,0,0,0,15
+T5,FFMM,3,212,Polygonum lapathifolium,I,g,1,0,0,0,1
+T5,FFMM,5,500,Polygonum lapathifolium,I,g,15,0,0,0,15
+T5,FFMM,5,500,Polygonum lapathifolium,I,g,3,0,0,3,6
+T5,FFMM,10,500,Polygonum lapathifolium,I,g,806,0,0,1,807
+T5,FFMM,10,212,Polygonum lapathifolium,I,g,2,0,0,2,4
+T6,FFMM,3,500,Polygonum lapathifolium,I,g,22,0,0,0,22
+T6,FFMM,5,350,Polygonum lapathifolium,I,g,10,0,0,0,10
+T6,FFMM,10,500,Polygonum lapathifolium,I,g,5,0,0,0,5
+T8,FFMM,0,500,Polygonum lapathifolium,I,g,98,0,0,0,98
+T8,FFMM,3,500,Polygonum lapathifolium,I,g,1,0,0,0,1
+T8,FFMM,10,500,Polygonum lapathifolium,I,g,58,0,0,0,58
+T9,FFMM,0,500,Polygonum lapathifolium,I,g,2,0,0,0,2
+T9,FFMM,3,500,Polygonum lapathifolium,I,g,1,0,0,0,1
+T9,FFMM,5,500,Polygonum lapathifolium,I,g,1,0,0,0,1
+T9,FFMM,10,500,Polygonum lapathifolium,I,g,26,0,0,0,26
+T9,FFMM,15,500,Polygonum lapathifolium,I,g,1,0,0,0,1
+T16,FFMM,3,500,Polygonum lapathifolium,I,g,2,0,0,0,2
+T16,FFMM,10,500,Polygonum lapathifolium,I,g,2,0,0,0,2
+T25,FFMM,15,500,Polygonum lapathifolium,I,g,1,0,0,0,1
+T26 at C,FFMM,0,500,Polygonum lapathifolium,I,g,3,0,0,0,3
+T26 at D,FFMM,0,500,Polygonum lapathifolium,I,g,1,0,0,0,1
+T26,FFMM,3,500,Polygonum lapathifolium,I,g,38,0,0,0,38
+T26,FFMM,5,500,Polygonum lapathifolium,I,g,68,0,0,0,68
+T26/28?,FFMM,10,500,Polygonum lapathifolium,I,g,16,0,0,0,16
+T26 at D,FFMM,10,500,Polygonum lapathifolium,I,g,216,0,0,0,216
+T26 at D,FFMM,10,212,Polygonum lapathifolium,I,g,1,0,0,0,1
+T26 at D,FFMM,15,500,Polygonum lapathifolium,I,g,205,0,0,0,205
+T26 at D,FFMM,15,212,Polygonum lapathifolium,I,g,3,0,0,0,3
+T26,FFMM,20,500,Polygonum lapathifolium,I,g,113,0,0,0,113
+T27,FFMM,15,500,Polygonum lapathifolium,I,g,2,0,0,0,2
+T27,FFMM,15,212,Polygonum lapathifolium,I,g,2,0,0,0,2
+T28,FFMM,5,500,Polygonum lapathifolium,I,g,1,0,0,0,1
+T28,FFMM,15,500,Polygonum lapathifolium,I,g,1,0,0,0,1
+T28,FFMM,20,500,Polygonum lapathifolium,I,g,59,0,0,0,59
+T29,FFMM,0,500,Polygonum lapathifolium,I,g,4,0,0,0,4
+T29,FFMM,0,212,Polygonum lapathifolium,I,g,1,0,0,0,1
+T29,FFMM,3,500,Polygonum lapathifolium,I,g,131,0,0,0,131
+T29,FFMM,5,500,Polygonum lapathifolium,I,g,38,0,0,0,38
+T29,FFMM,10,500,Polygonum lapathifolium,I,g,4,0,0,0,4
+T29,FFMM,15,500,Polygonum lapathifolium,I,g,32,0,0,0,32
+T29,FFMM,20,500,Polygonum lapathifolium,I,g,63,0,0,0,63
+T6,PMM,0,350,Chenopodium album,I,g,1,0,0,0,1
+T6,PMM,5,212,Chenopodium album,I,g,1,0,0,0,1
+T6,PMM,10,212,Chenopodium album,I,g,1,0,0,0,1
+T8,PMM,3,500,Chenopodium album,I,g,134,0,0,0,134
+T8,PMM,15,500,Chenopodium album,I,g,2,0,0,0,2
+T8,PMM,15,212,Chenopodium album,I,g,1,0,0,0,1
+T8,PMM,20,500,Chenopodium album,I,g,3,0,0,0,3
+T9,PMM,3,500,Chenopodium album,I,g,1,0,0,0,1
+T9,PMM,15,500,Chenopodium album,I,g,4,0,0,0,4
+T9,PMM,15,212,Chenopodium album,I,g,1,0,0,0,1
+T9,PMM,20,500,Chenopodium album,I,g,5,0,0,0,5
+T16,PMM,20,500,Chenopodium album,I,g,3,0,0,0,3
+T25,PMM,10,500,Chenopodium album,I,g,1,0,0,0,1
+T26 at D,PMM,3,212,Chenopodium album,I,g,1,0,0,0,1
+T27,PMM,3,212,Chenopodium album,I,g,1,0,0,0,1
+T27,PMM,5,500,Chenopodium album,I,g,5,0,0,0,5
+T27,PMM,10,500,Chenopodium album,I,g,2,0,0,0,2
+T27,PMM,15,500,Chenopodium album,I,g,12,0,0,0,12
+T28,PMM,0,212,Chenopodium album,I,g,1,0,0,0,1
+T28/T26?,PMM,5,350,Chenopodium album,I,g,1,0,0,0,1
+T28,PMM,20,500,Chenopodium album,I,g,1,0,0,0,1
+T29 at D,PMM,15,500,Chenopodium album,I,g,1,0,0,0,1
+T8,PMM,5,500,Chenopodium album (#5),I,g,51,0,0,0,51
+T25,PMM,3,500,Chenopodium capitatum,I,g,0,0,0,1,1
+T25,PMM,10,212,Chenopodium capitatum,I,g,0,0,0,1,1
+T27,PMM,3,500,Chenopodium capitatum,I,g,0,0,0,4,4
+T6,PMM,15,500,Matricaria sp. Pineapple,I,g,1,0,0,1,2
+T29 at D,PMM,20,500,mustard,I,g,0,0,1,0,1
+T26 at D,PMM,10,500,Poly are,I,g,0,0,0,2,2
+T26 at D,PMM,10,500,Poly lap,I,g,7,0,0,0,7
+T8,PMM,3,500,Polygonum arenastrum,I,g,1,0,0,0,1
+T8,PMM,5,500,Polygonum arenastrum,I,g,4,0,0,0,4
+T9,PMM,15,500,Polygonum arenastrum,I,g,5,0,0,0,5
+T9,PMM,20,500,Polygonum arenastrum,I,g,6,0,0,0,6
+T26 at D,PMM,0,500,Polygonum arnestrum,I,g,9,0,0,0,9
+T5,PMM,3,500,Polygonum lapathifolium,I,g,519,0,0,0,519
+T5,PMM,3,212,Polygonum lapathifolium,I,g,3,0,0,0,3
+T5,PMM,20,500,Polygonum lapathifolium,I,g,31,0,0,5,36
+T6,PMM,0,350,Polygonum lapathifolium,I,g,7,0,0,0,7
+T6,PMM,5,500,Polygonum lapathifolium,I,g,7,0,0,1,8
+T6,PMM,10,500,Polygonum lapathifolium,I,g,56,2,0,0,58
+T6,PMM,15,500,Polygonum lapathifolium,I,g,50,0,0,2,52
+T8,PMM,0,500,Polygonum lapathifolium,I,g,3,0,0,0,3
+T8,PMM,5,500,Polygonum lapathifolium,I,g,78,0,0,0,78
+T8,PMM,15,500,Polygonum lapathifolium,I,g,8,0,0,0,8
+T9,PMM,0,500,Polygonum lapathifolium,I,g,2,0,0,0,2
+T9,PMM,3,500,Polygonum lapathifolium,I,g,532,2,0,0,534
+T9,PMM,5,500,Polygonum lapathifolium,I,g,0,0,0,27,27
+T9,PMM,15,500,Polygonum lapathifolium,I,g,111,0,0,0,111
+T9,PMM,20,500,Polygonum lapathifolium,I,g,195,0,0,0,195
+T16,PMM,3,500,Polygonum lapathifolium,I,g,4,0,0,0,4
+T16,PMM,10,500,Polygonum lapathifolium,I,g,8,0,0,0,8
+T16,PMM,20,500,Polygonum lapathifolium,I,g,3,0,0,0,3
+T25,PMM,10,212,Polygonum lapathifolium,I,g,2,0,0,0,2
+T25,PMM,15,500,Polygonum lapathifolium,I,g,15,0,0,0,15
+T25,PMM,20,500,Polygonum lapathifolium,I,g,86,0,0,0,86
+T26 at D,PMM,0,500,Polygonum lapathifolium,I,g,181,0,0,0,181
+T26 at D,PMM,0,212,Polygonum lapathifolium,I,g,1,0,0,0,1
+T26 at D,PMM,3,500,Polygonum lapathifolium,I,g,5,0,0,0,5
+T26 at D,PMM,5,500,Polygonum lapathifolium,I,g,145,0,0,0,145
+T26 at D,PMM,20,500,Polygonum lapathifolium,I,g,2,0,0,0,2
+T27,PMM,0,500,Polygonum lapathifolium,I,g,1,0,0,0,1
+T27,PMM,3,500,Polygonum lapathifolium,I,g,32,0,0,0,32
+T27,PMM,5,500,Polygonum lapathifolium,I,g,17,0,0,0,17
+T27,PMM,10,500,Polygonum lapathifolium,I,g,18,0,0,0,18
+T27,PMM,10,212,Polygonum lapathifolium,I,g,2,0,0,0,2
+T27,PMM,15,500,Polygonum lapathifolium,I,g,133,0,0,0,133
+T27,PMM,20,500,Polygonum lapathifolium,I,g,453,0,0,0,453
+T29 at D,PMM,0,500,Polygonum lapathifolium,I,g,50,0,0,0,50
+T29,PMM,0,212,Polygonum lapathifolium,I,g,1,0,0,0,1
+T29,PMM,3,500,Polygonum lapathifolium,I,g,208,0,0,0,208
+T29,PMM,3,212,Polygonum lapathifolium,I,g,6,0,0,0,6
+T29,PMM,5,500,Polygonum lapathifolium,I,g,134,0,0,0,134
+T29,PMM,10,500,Polygonum lapathifolium,I,g,3,0,0,0,3
+T29 at D,PMM,15,500,Polygonum lapathifolium,I,g,38,0,0,0,38
+T29 at D,PMM,15,212,Polygonum lapathifolium,I,g,1,0,0,0,1
+T29 at D,PMM,20,500,Polygonum lapathifolium,I,g,27,0,0,0,27
+T8,PMM,10,212,bunchgrass,F,unk,0,0,1,1,2
+T9,PMM,15,500,Aruncus dioicus?,I,unk,1,0,0,0,1
+T6,FFMM,5,350,divided toothy rosette,UNK,UNK,0,0,0,1,1
+T6,PMM,0,350,empty toothpicks,UNK,UNK,3,0,0,0,3
+T6,PMM,10,212,empty toothpicks,UNK,UNK,2,0,0,0,2
+T26/28?,PMM,10,500,empty toothpicks,UNK,UNK,9,0,0,0,9
+T29,FFMM,5,500,notch tooth rosette,UNK,UNK,0,0,0,1,1
+T5,FFMM,5,500,opp dicot with big 3rd leaf (CNH),UNK,UNK,3,0,0,0,3
+T29,FFMM,3,500,opposite entire,UNK,UNK,0,0,1,0,1
+T6,PMM,5,500,Opposite leaves,UNK,UNK,0,0,0,1,1
+T26/28?,FFMM,10,212,opposite notched,UNK,UNK,1,0,0,0,1
+T28,FFMM,15,212,opposite toothy,UNK,UNK,1,1,1,9,12
+T16,FFMM,5,500,other dicot,UNK,UNK,0,0,0,2,2
+T9,FFMM,3,500,other dicots,UNK,UNK,0,0,0,2,2
+T26/28?,PMM,10,500,other dicots,UNK,UNK,0,0,0,1,1
+T26/28?,FFMM,10,500,other palmate,UNK,UNK,0,0,0,1,1
+T16,FFMM,5,500,other toothy rosette?,UNK,UNK,0,0,0,1,1
+T6,PMM,15,500,palmate rosette,UNK,UNK,0,0,0,2,2
+T6,FFMM,10,500,palmate vein toothy rosette,UNK,UNK,0,0,0,1,1
+T6,FFMM,5,350,toothy rosette,UNK,UNK,0,0,0,1,1
+T8,FFMM,0,212,unknown,UNK,UNK,0,0,0,1,1
+T9,PMM,0,500,unknown,UNK,UNK,0,0,0,1,1
+T25,PMM,20,212,unknown,UNK,UNK,0,0,0,1,1
+T27,FFMM,3,500,Unknown,UNK,UNK,0,0,0,2,2
+T27,FFMM,15,500,Unknown,UNK,UNK,0,0,0,1,1
+T25,FFMM,5,212,unknown (Aw?),UNK,UNK,0,0,0,1,1
+T5,PMM,20,500,unknown dicot,UNK,UNK,0,0,0,5,5
+T6,FFMM,10,500,unknown dicot,UNK,UNK,0,0,0,7,7
+T6,PMM,15,212,unknown dicot,UNK,UNK,0,0,0,1,1
+T8,FFMM,0,212,unknown dicot,UNK,UNK,0,0,0,1,1
+T8,FFMM,3,212,unknown dicot,UNK,UNK,0,0,0,2,2
+T8,FFMM,5,212,unknown dicot,UNK,UNK,0,0,0,2,2
+T8,PMM,0,500,unknown dicot,UNK,UNK,0,0,0,1,1
+T8,PMM,0,212,unknown dicot,UNK,UNK,0,0,0,1,1
+T8,PMM,3,212,unknown dicot,UNK,UNK,0,0,0,1,1
+T9,FFMM,3,212,unknown dicot,UNK,UNK,0,0,0,1,1
+T9,PMM,0,212,Unknown dicot,UNK,UNK,0,0,0,1,1
+T9,PMM,5,212,unknown dicot,UNK,UNK,0,0,0,1,1
+T16,FFMM,5,212,unknown dicot,UNK,UNK,0,0,0,3,3
+T16,FFMM,10,212,unknown dicot,UNK,UNK,0,0,0,12,12
+T25,PMM,3,500,unknown dicot,UNK,UNK,0,0,0,4,4
+T25,PMM,3,212,unknown dicot,UNK,UNK,0,0,0,9,9
+T27,PMM,0,212,unknown dicot,UNK,UNK,0,0,0,1,1
+T27,PMM,5,212,unknown dicot,UNK,UNK,0,0,0,3,3
+T28,FFMM,20,212,unknown dicot,UNK,UNK,0,0,0,3,3
+T29,FFMM,3,500,unknown dicot,UNK,UNK,0,0,0,0,0
+T29,FFMM,10,500,unknown dicot,UNK,UNK,0,0,0,5,5
+T29 at D,PMM,0,500,Unknown dicot,UNK,UNK,0,0,0,1,1
+T29 at D,PMM,20,500,unknown dicot,UNK,UNK,0,0,0,0,0
+T29 at D,PMM,20,212,unknown dicot,UNK,UNK,0,0,0,11,11
+T27,FFMM,0,212,unknown dicot - likely Epil cil,UNK,UNK,0,0,0,11,11
+T26,FFMM,20,212,unknown dicot (some = Aw),UNK,UNK,0,0,0,5,5
+T6,PMM,0,350,unknown dicots,UNK,UNK,0,0,0,3,3
+T6,PMM,10,212,unknown dicots,UNK,UNK,0,0,0,2,2
+T6,PMM,15,500,unknown dicots,UNK,UNK,0,0,0,2,2
+T8,FFMM,10,500,unknown dicots,UNK,UNK,0,0,0,7,7
+T8,FFMM,10,212,unknown dicots,UNK,UNK,0,0,0,5,5
+T8,PMM,10,212,unknown dicots,UNK,UNK,0,0,0,5,5
+T9,FFMM,5,212,unknown dicots,UNK,UNK,0,0,0,5,5
+T9,FFMM,10,500,unknown dicots,UNK,UNK,0,0,0,3,3
+T9,FFMM,15,500,unknown dicots,UNK,UNK,0,0,0,6,6
+T9,FFMM,15,212,unknown dicots,UNK,UNK,0,0,0,4,4
+T16,FFMM,3,500,unknown dicots,UNK,UNK,0,0,0,14,14
+T25,PMM,5,212,unknown dicots,UNK,UNK,0,0,0,3,3
+T25,PMM,10,212,unknown dicots,UNK,UNK,0,0,0,1,1
+T26,FFMM,20,500,unknown dicots,UNK,UNK,0,0,0,3,3
+T27,PMM,0,500,unknown dicots,UNK,UNK,0,0,0,8,8
+T27,PMM,3,212,unknown dicots,UNK,UNK,0,0,0,2,2
+T28,PMM,20,500,unknown dicots,UNK,UNK,0,0,0,0,0
+T29,FFMM,3,212,unknown dicots,UNK,UNK,0,0,0,7,7
+T29,FFMM,5,500,unknown dicots,UNK,UNK,0,0,0,0,0
+T29,FFMM,5,212,unknown dicots,UNK,UNK,0,0,0,2,2
+T29,FFMM,15,212,unknown dicots,UNK,UNK,0,0,0,0,0
+T16,FFMM,3,212,unknown dicots (Epilang?),UNK,UNK,0,0,0,8,8
+T27,PMM,5,212,unknown monocot,UNK,UNK,0,0,0,1,1
+T26/28?,PMM,15,500,unknown opposite,UNK,UNK,0,0,2,0,2
+T16,FFMM,10,500,unknown opposite entire,UNK,UNK,0,0,0,1,1
+T28,FFMM,20,212,unknown rosette,UNK,UNK,0,0,0,1,1
+T29,FFMM,20,500,Unknown sprout,UNK,UNK,0,0,0,12,12
+T26 at D,FFMM,0,500,Achillea millefolium,F,v,3,0,0,0,3
+T26,FFMM,3,500,Achillea millefolium,F,v,0,0,0,1,1
+T26,FFMM,3,500,Achillea millefolium,F,v,372,0,0,3,375
+T26,FFMM,5,500,Achillea millefolium,F,v,0,0,0,4,4
+T26 at D,FFMM,15,500,Achillea millefolium,F,v,3,0,0,0,3
+T26,FFMM,20,500,Achillea millefolium,F,v,0,0,0,1,1
+T29,FFMM,3,500,Achillea millefolium,F,v,0,0,0,1,1
+T25,FFMM,20,500,Achillea millifolium,F,v,0,0,0,1,1
+T25,FFMM,0,500,Achillea?,F,v,0,0,0,1,1
+T25,FFMM,10,500,Achillia millefolium,F,v,22,0,0,1,23
+T26/28?,FFMM,10,500,Astragalus ?,F,v,0,0,0,1,1
+T28,FFMM,20,500,Astragalus alpinus,F,v,0,0,0,1,1
+T26/28?,FFMM,10,212,Astragalus ?,F,v,7,0,0,0,7
+T28,FFMM,15,500,Astragalus ?,F,v,0,0,3,0,3
+T28,FFMM,15,212,Astragalus ?,F,v,6,0,0,0,6
+T9,FFMM,15,500,Fragaria virginiana,F,v,0,0,0,1,1
+T26,FFMM,5,500,Fragaria virginiana,F,v,0,0,0,1,1
+T26,FFMM,5,500,Galium boreale,F,v,0,0,0,1,1
+T5,FFMM,10,500,Galium boreale (or trifidum/lab?),F,v,1,0,0,0,1
+T6,FFMM,10,500,Galium boreale/trifidum?,F,v,0,0,0,3,3
+T8,FFMM,3,500,Galium boreale?,F,v,0,0,0,1,1
+T9,FFMM,15,500,Galium boreale?,F,v,0,0,0,1,1
+T26 at C,FFMM,0,500,Galium boreale?,F,v,0,0,0,1,1
+T8,FFMM,0,500,Galium sp.,F,v,0,0,0,1,1
+T9,FFMM,0,500,Galium sp.,F,v,0,0,0,1,1
+T28,FFMM,20,500,Lathyrus ochroleucus,F,v,0,0,0,1,1
+T8,FFMM,10,500,Rubus idaeus? (#2),F,v,0,0,0,1,1
+T25,PMM,10,212,Achillea millefolium,F,v,0,0,0,1,1
+T26 at D,PMM,0,500,Achillea millefolium,F,v,0,0,0,1,1
+T8,PMM,10,500,chickweed,F,v,5,0,0,1,6
+T25,PMM,0,500,Fragaria virginiana,F,v,0,0,0,1,1
+T29 at D,PMM,15,500,Galium,F,v,0,0,0,0,0
+T5,PMM,20,500,Galium trifidum,F,v,1,0,1,1,3
+T26/28?,PMM,10,500,Oxycoccos microcarpos,F,v,0,0,0,1,1
+T9,PMM,20,500,Oxycoccus microcarpos,F,v,0,0,0,1,1
+T16,FFMM,10,500,Aster ciliolatus?,F,w,0,0,1,1,2
+T26 at C,FFMM,0,500,Aster ciliolatus?,F,w,0,0,0,1,1
+T5,FFMM,10,500,Epilobium ciliatum,F,w,90,0,0,0,90
+T27,FFMM,3,500,Epilobium ciliatum,F,w,0,0,0,2,2
+T27,FFMM,5,500,Epilobium ciliatum,F,w,0,0,0,2,2
+T27,FFMM,5,212,Epilobium ciliatum,F,w,0,0,0,1,1
+T27,FFMM,10,500,Epilobium ciliatum,F,w,0,0,0,1,1
+T27,FFMM,10,212,Epilobium ciliatum,F,w,0,0,0,1,1
+T27,FFMM,10,500,Epilobium,F,w,0,0,0,2,2
+T26,FFMM,3,500,Dracocephalum parviflorum,F,w,0,0,0,1,1
+T27,FFMM,3,500,Epilobium - glandular hairs,F,w,1,0,0,1,2
+T5,FFMM,3,500,Epilobium angustifolium,F,w,23,0,0,0,23
+T5,FFMM,3,212,Epilobium angustifolium,F,w,5,0,0,0,5
+T5,FFMM,5,500,Epilobium angustifolium,F,w,14,0,0,0,14
+T5,FFMM,5,212,Epilobium angustifolium,F,w,18,0,0,0,18
+T5,FFMM,10,500,Epilobium angustifolium,F,w,0,0,0,1,1
+T6,FFMM,3,212,Epilobium angustifolium,F,w,0,0,0,1,1
+T6,FFMM,5,350,Epilobium angustifolium,F,w,0,0,0,2,2
+T6,FFMM,10,500,Epilobium angustifolium,F,w,1,0,0,0,1
+T8,FFMM,0,212,Epilobium angustifolium,F,w,6,0,0,3,9
+T8,FFMM,3,500,Epilobium angustifolium,F,w,0,0,0,2,2
+T8,FFMM,3,212,Epilobium angustifolium,F,w,4,0,0,0,4
+T8,FFMM,5,212,Epilobium angustifolium,F,w,6,0,0,0,6
+T8,FFMM,10,500,Epilobium angustifolium,F,w,0,0,0,2,2
+T8,FFMM,10,212,Epilobium angustifolium,F,w,1,0,0,0,1
+T9,FFMM,0,500,Epilobium angustifolium,F,w,3,0,0,0,3
+T9,FFMM,0,212,Epilobium angustifolium,F,w,4,0,0,3,7
+T9,FFMM,3,500,Epilobium angustifolium,F,w,2,0,0,0,2
+T9,FFMM,3,212,Epilobium angustifolium,F,w,16,0,0,2,18
+T9,FFMM,5,500,Epilobium angustifolium,F,w,0,0,0,2,2
+T9,FFMM,5,212,Epilobium angustifolium,F,w,6,0,0,4,10
+T9,FFMM,10,500,Epilobium angustifolium,F,w,22,0,0,2,24
+T9,FFMM,15,212,Epilobium angustifolium,F,w,5,0,0,1,6
+T16,FFMM,3,500,Epilobium angustifolium,F,w,9,0,0,1,10
+T16,FFMM,3,212,Epilobium angustifolium,F,w,6,0,0,0,6
+T16,FFMM,5,500,Epilobium angustifolium,F,w,0,0,0,9,9
+T16,FFMM,5,212,Epilobium angustifolium,F,w,4,0,0,6,10
+T16,FFMM,10,500,Epilobium angustifolium,F,w,6,0,0,0,6
+T16,FFMM,10,212,Epilobium angustifolium,F,w,8,0,0,0,8
+T25,FFMM,0,500,Epilobium angustifolium,F,w,0,0,0,4,4
+T25,FFMM,0,212,Epilobium angustifolium,F,w,0,0,0,2,2
+T25,FFMM,5,500,Epilobium angustifolium,F,w,0,0,0,12,12
+T25,FFMM,5,212,Epilobium angustifolium,F,w,2,0,0,0,2
+T25,FFMM,15,212,Epilobium angustifolium,F,w,0,0,0,1,1
+T25,FFMM,20,500,Epilobium angustifolium,F,w,0,0,0,4,4
+T25,FFMM,20,212,Epilobium angustifolium,F,w,0,0,2,2,4
+T26 at C,FFMM,0,500,Epilobium angustifolium,F,w,23,0,0,0,23
+T26 at D,FFMM,0,500,Epilobium angustifolium,F,w,2,0,0,0,2
+T26,FFMM,0,212,Epilobium angustifolium,F,w,21,0,0,17,38
+T26 at D,FFMM,0,212,Epilobium angustifolium,F,w,19,3,0,2,24
+T26,FFMM,3,500,Epilobium angustifolium,F,w,1,0,0,1,2
+T26,FFMM,3,212,Epilobium angustifolium,F,w,9,0,0,0,9
+T26,FFMM,5,500,Epilobium angustifolium,F,w,18,0,0,0,18
+T26,FFMM,5,212,Epilobium angustifolium,F,w,5,0,0,0,5
+T26 at D,FFMM,10,500,Epilobium angustifolium,F,w,20,0,0,0,20
+T26/28?,FFMM,10,212,Epilobium angustifolium,F,w,1,0,0,0,1
+T26 at D,FFMM,10,212,Epilobium angustifolium,F,w,180,0,0,0,180
+T26 at D,FFMM,15,500,Epilobium angustifolium,F,w,11,0,0,0,11
+T26 at D,FFMM,15,212,Epilobium angustifolium,F,w,1,0,0,0,1
+T26,FFMM,20,500,Epilobium angustifolium,F,w,1,0,0,0,1
+T26,FFMM,20,212,Epilobium angustifolium,F,w,9,0,0,0,9
+T27,FFMM,0,350,Epilobium angustifolium,F,w,0,0,0,1,1
+T27,FFMM,3,500,Epilobium angustifolium,F,w,5,0,0,0,5
+T27,FFMM,3,212,Epilobium angustifolium,F,w,0,0,0,10,10
+T27,FFMM,5,500,Epilobium angustifolium,F,w,0,0,0,6,6
+T27,FFMM,5,212,Epilobium angustifolium,F,w,0,0,0,1,1
+T27,FFMM,15,500,Epilobium angustifolium,F,w,1,0,0,0,1
+T27,FFMM,15,212,Epilobium angustifolium,F,w,2,0,0,0,2
+T28,FFMM,15,500,Epilobium angustifolium,F,w,4,0,0,0,4
+T29,FFMM,0,500,Epilobium angustifolium,F,w,0,0,0,4,4
+T29,FFMM,0,212,Epilobium angustifolium,F,w,12,0,0,0,12
+T29,FFMM,3,500,Epilobium angustifolium,F,w,9,0,0,0,9
+T29,FFMM,3,212,Epilobium angustifolium,F,w,24,0,0,0,24
+T29,FFMM,5,500,Epilobium angustifolium,F,w,19,0,0,0,19
+T29,FFMM,5,212,Epilobium angustifolium,F,w,20,0,0,0,20
+T29,FFMM,10,500,Epilobium angustifolium,F,w,7,0,0,5,12
+T29,FFMM,10,212,Epilobium angustifolium,F,w,20,0,0,8,28
+T29,FFMM,15,500,Epilobium angustifolium,F,w,13,0,0,0,13
+T29,FFMM,15,212,Epilobium angustifolium,F,w,35,0,0,0,35
+T27,FFMM,10,500,Epilobium angustifolium?,F,w,2,0,0,0,2
+T29,FFMM,20,500,Epilobium angustifolium?,F,w,0,0,0,0,0
+T5,FFMM,3,500,Epilobium cilatum,F,w,8,0,0,0,8
+T5,FFMM,3,500,Epilobium ciliatum,F,w,34,0,0,2,36
+T5,FFMM,3,212,Epilobium ciliatum,F,w,67,0,0,0,67
+T5,FFMM,5,500,Epilobium ciliatum,F,w,6,0,0,0,6
+T5,FFMM,5,212,Epilobium ciliatum,F,w,13,0,0,0,13
+T5,FFMM,10,500,Epilobium ciliatum,F,w,213,0,0,0,213
+T5,FFMM,10,212,Epilobium ciliatum,F,w,346,0,0,10,356
+T6,FFMM,3,500,Epilobium ciliatum,F,w,1,0,1,0,2
+T6,FFMM,10,500,Epilobium ciliatum,F,w,8,0,0,0,8
+T6,FFMM,10,212,Epilobium ciliatum,F,w,1,0,0,0,1
+T8,FFMM,0,500,Epilobium ciliatum,F,w,11,0,0,0,11
+T8,FFMM,0,212,Epilobium ciliatum,F,w,2,0,0,0,2
+T8,FFMM,3,500,Epilobium ciliatum,F,w,3,0,0,0,3
+T8,FFMM,3,212,Epilobium ciliatum,F,w,1,0,0,0,1
+T8,FFMM,5,212,Epilobium ciliatum,F,w,1,0,0,0,1
+T8,FFMM,10,500,Epilobium ciliatum,F,w,4,0,0,0,4
+T9,FFMM,0,500,Epilobium ciliatum,F,w,1,0,0,0,1
+T9,FFMM,0,212,Epilobium ciliatum,F,w,1,0,0,0,1
+T9,FFMM,3,212,Epilobium ciliatum,F,w,4,0,0,0,4
+T9,FFMM,5,500,Epilobium ciliatum,F,w,4,0,0,0,4
+T9,FFMM,5,212,Epilobium ciliatum,F,w,4,0,0,0,4
+T9,FFMM,10,212,Epilobium ciliatum,F,w,3,0,0,0,3
+T9,FFMM,10,500,Epilobium ciliatum,F,w,19,0,0,2,21
+T9,FFMM,10,500,Epilobium ciliatum,F,w,2,0,0,0,2
+T9,FFMM,15,500,Epilobium ciliatum,F,w,2,0,0,0,2
+T9,FFMM,15,212,Epilobium ciliatum,F,w,3,0,0,0,3
+T16,FFMM,3,500,Epilobium ciliatum,F,w,4,0,0,0,4
+T16,FFMM,3,212,Epilobium ciliatum,F,w,2,0,0,0,2
+T16,FFMM,5,500,Epilobium ciliatum,F,w,2,0,0,0,2
+T16,FFMM,5,212,Epilobium ciliatum,F,w,2,0,0,0,2
+T16,FFMM,10,500,Epilobium ciliatum,F,w,3,0,0,0,3
+T16,FFMM,10,212,Epilobium ciliatum,F,w,2,0,0,0,2
+T25,FFMM,0,500,Epilobium ciliatum,F,w,10,0,0,0,10
+T25,FFMM,0,212,Epilobium ciliatum,F,w,7,0,0,0,7
+T25,FFMM,3,500,Epilobium ciliatum,F,w,5,0,0,0,5
+T25,FFMM,3,212,Epilobium ciliatum,F,w,4,0,0,0,4
+T25,FFMM,5,500,Epilobium ciliatum,F,w,9,0,0,0,9
+T25,FFMM,5,212,Epilobium ciliatum,F,w,3,0,0,0,3
+T25,FFMM,10,212,Epilobium ciliatum,F,w,4,0,0,1,5
+T25,FFMM,15,500,Epilobium ciliatum,F,w,10,0,0,0,10
+T25,FFMM,15,212,Epilobium ciliatum,F,w,5,0,0,1,6
+T25,FFMM,20,500,Epilobium ciliatum,F,w,9,0,0,0,9
+T25,FFMM,20,212,Epilobium ciliatum,F,w,25,0,0,0,25
+T26 at C,FFMM,0,500,Epilobium ciliatum,F,w,385,0,0,0,385
+T26 at D,FFMM,0,500,Epilobium ciliatum,F,w,14,0,0,0,14
+T26,FFMM,0,212,Epilobium ciliatum,F,w,104,0,0,0,104
+T26,FFMM,0,212,Epilobium ciliatum,F,w,13,0,0,0,13
+T26 at D,FFMM,0,212,Epilobium ciliatum,F,w,45,3,0,0,48
+T26,FFMM,3,500,Epilobium ciliatum,F,w,32,0,0,0,32
+T26,FFMM,3,500,Epilobium ciliatum,F,w,47,0,0,0,47
+T26,FFMM,3,212,Epilobium ciliatum,F,w,3,0,0,1,4
+T26,FFMM,5,500,Epilobium ciliatum,F,w,49,0,0,0,49
+T26,FFMM,5,212,Epilobium ciliatum,F,w,17,0,0,4,21
+T26/28?,FFMM,10,500,Epilobium ciliatum,F,w,29,0,0,0,29
+T26 at D,FFMM,10,500,Epilobium ciliatum,F,w,4,0,0,0,4
+T26/28?,FFMM,10,212,Epilobium ciliatum,F,w,13,0,0,0,13
+T26 at D,FFMM,10,212,Epilobium ciliatum,F,w,82,6,0,0,88
+T26 at D,FFMM,15,500,Epilobium ciliatum,F,w,200,0,0,1,201
+T26 at D,FFMM,15,212,Epilobium ciliatum,F,w,30,0,0,0,30
+T26,FFMM,20,500,Epilobium ciliatum,F,w,23,0,0,0,23
+T26,FFMM,20,212,Epilobium ciliatum,F,w,14,0,0,0,14
+T27,FFMM,0,350,Epilobium ciliatum,F,w,121,0,2,0,123
+T27,FFMM,0,212,Epilobium ciliatum,F,w,9,0,0,0,9
+T27,FFMM,3,500,Epilobium ciliatum,F,w,7,0,0,0,7
+T27,FFMM,3,212,Epilobium ciliatum,F,w,20,0,0,0,20
+T27,FFMM,5,500,Epilobium ciliatum,F,w,19,0,0,0,19
+T27,FFMM,5,212,Epilobium ciliatum,F,w,9,0,0,0,9
+T27,FFMM,10,500,Epilobium ciliatum,F,w,23,0,0,0,23
+T27,FFMM,10,212,Epilobium ciliatum,F,w,10,0,0,0,10
+T27,FFMM,15,500,Epilobium ciliatum,F,w,9,0,0,0,9
+T27,FFMM,15,212,Epilobium ciliatum,F,w,20,0,0,0,20
+T27,FFMM,20,500,Epilobium ciliatum,F,w,1,0,0,1,2
+T28,FFMM,5,500,Epilobium ciliatum,F,w,9,0,0,0,9
+T28,FFMM,5,212,Epilobium ciliatum,F,w,56,0,0,0,56
+T28,FFMM,15,500,Epilobium ciliatum,F,w,45,0,0,0,45
+T28,FFMM,15,212,Epilobium ciliatum,F,w,21,0,0,0,21
+T28,FFMM,20,500,Epilobium ciliatum,F,w,8,0,0,0,8
+T28,FFMM,20,212,Epilobium ciliatum,F,w,4,0,0,0,4
+T29,FFMM,0,212,Epilobium ciliatum,F,w,1,0,0,0,1
+T29,FFMM,3,500,Epilobium ciliatum,F,w,0,0,0,1,1
+T29,FFMM,3,212,Epilobium ciliatum,F,w,1,0,0,1,2
+T29,FFMM,5,500,Epilobium ciliatum,F,w,1,0,0,1,2
+T29,FFMM,5,212,Epilobium ciliatum,F,w,3,0,0,0,3
+T29,FFMM,10,212,Epilobium ciliatum,F,w,1,0,0,0,1
+T29,FFMM,15,500,Epilobium ciliatum,F,w,1,0,0,0,1
+T29,FFMM,15,212,Epilobium ciliatum,F,w,2,0,0,0,2
+T29,FFMM,20,500,Epilobium ciliatum,F,w,0,0,0,0,0
+T29,FFMM,20,212,Epilobium ciliatum,F,w,4,0,0,0,4
+T16,FFMM,10,500,Epilobium other,F,w,1,0,0,0,1
+T26,FFMM,3,500,Epilobium palustre (hair),F,w,2,0,0,1,3
+T26 at D,FFMM,0,212,Epilobium palustre?,F,w,1,0,0,0,1
+T26 at D,FFMM,10,212,Epilobium palustre?,F,w,1,0,0,0,1
+T27,FFMM,3,500,Epilobium palustre?,F,w,1,0,0,1,2
+T5,FFMM,3,500,Erigeron canadensis,F,w,57,0,0,0,57
+T5,FFMM,3,212,Erigeron canadensis,F,w,5,0,0,0,5
+T5,FFMM,5,500,Erigeron canadensis,F,w,312,8,0,2,322
+T5,FFMM,5,212,Erigeron canadensis,F,w,43,0,0,2,45
+T5,FFMM,10,500,Erigeron canadensis,F,w,257,0,0,0,257
+T5,FFMM,10,212,Erigeron canadensis,F,w,19,0,0,0,19
+T9,FFMM,10,500,Erigeron canadensis,F,w,1,0,0,0,1
+T25,FFMM,15,500,Erigeron canadensis,F,w,1,0,0,0,1
+T25,FFMM,20,500,Erigeron canadensis,F,w,2,0,0,0,2
+T25,FFMM,20,212,Erigeron canadensis,F,w,1,0,0,0,1
+T26,FFMM,3,500,Erigeron canadensis,F,w,7,0,0,0,7
+T26,FFMM,5,500,Erigeron canadensis,F,w,4,0,0,0,4
+T26 at D,FFMM,10,500,Erigeron canadensis,F,w,6,0,0,0,6
+T26 at D,FFMM,15,212,Erigeron canadensis,F,w,4,0,0,0,4
+T26,FFMM,20,500,Erigeron canadensis,F,w,50,0,0,0,50
+T28,FFMM,15,500,Erigeron canadensis,F,w,1,0,0,0,1
+T26,FFMM,20,212,Erigeron canadensis?,F,w,11,0,2,0,13
+T25,FFMM,10,500,Fuzzy,F,w,0,0,0,1,1
+T26,FFMM,3,212,fuzzy,F,w,0,0,0,1,1
+T26,FFMM,20,500,fuzzy = Erig can?,F,w,2,0,0,0,2
+T26 at D,FFMM,15,500,Fuzzy 2-4 leaves (Erigeron canadensis),F,w,37,0,0,0,37
+T26 at C,FFMM,0,500,Senecio,I,w,2,0,2,0,4
+T29,FFMM,5,500,narrow opp Epil,F,w,0,0,1,0,1
+T28,FFMM,15,500,Epilobium cil,F,w,0,0,0,2,2
+T26,FFMM,3,212,Epilobium cil,F,w,2,0,0,0,2
+T26,FFMM,5,500,Solidago canadensis?,F,w,0,0,0,2,2
+T25,PMM,0,500,Aster ciliolatus,F,w,0,0,0,1,1
+T8,PMM,20,212,Epilobium ciliatum,F,w,1,0,0,0,1
+T26 at D,PMM,10,212,Epilobium ciliatum,F,w,0,0,0,1,1
+T26/28?,PMM,15,212,Epilobium ciliatum,F,w,0,0,0,1,1
+T26 at D,PMM,10,500,Epil cil,F,w,160,0,0,0,160
+T26 at D,PMM,10,212,Epil cil,F,w,22,0,0,3,25
+T9,PMM,15,500,Epilobium ,F,w,1,0,0,0,1
+T16,PMM,20,500,Epilobium (new?),F,w,1,0,0,0,1
+T5,PMM,3,212,Epilobium angustifolium,F,w,6,0,0,0,6
+T5,PMM,20,500,Epilobium angustifolium,F,w,0,0,0,1,1
+T6,PMM,0,350,Epilobium angustifolium,F,w,19,0,0,0,19
+T6,PMM,0,212,Epilobium angustifolium,F,w,0,0,0,1,1
+T6,PMM,5,212,Epilobium angustifolium,F,w,2,0,0,0,2
+T6,PMM,10,212,Epilobium angustifolium,F,w,43,0,0,2,45
+T6,PMM,15,500,Epilobium angustifolium,F,w,0,0,0,15,15
+T6,PMM,15,212,Epilobium angustifolium,F,w,0,0,0,2,2
+T8,PMM,0,500,Epilobium angustifolium,F,w,11,0,0,0,11
+T8,PMM,0,212,Epilobium angustifolium,F,w,2,0,0,0,2
+T8,PMM,3,500,Epilobium angustifolium,F,w,47,0,0,0,47
+T8,PMM,3,212,Epilobium angustifolium,F,w,19,0,0,1,20
+T8,PMM,5,500,Epilobium angustifolium,F,w,15,0,0,0,15
+T8,PMM,10,212,Epilobium angustifolium,F,w,2,0,0,0,2
+T8,PMM,15,500,Epilobium angustifolium,F,w,9,0,0,0,9
+T8,PMM,15,212,Epilobium angustifolium,F,w,0,0,0,2,2
+T8,PMM,20,500,Epilobium angustifolium,F,w,1,0,0,0,1
+T9,PMM,0,500,Epilobium angustifolium,F,w,8,0,0,0,8
+T9,PMM,0,212,Epilobium angustifolium,F,w,0,0,0,7,7
+T9,PMM,3,500,Epilobium angustifolium,F,w,14,0,0,0,14
+T9,PMM,5,212,Epilobium angustifolium,F,w,0,0,0,2,2
+T9,PMM,15,500,Epilobium angustifolium,F,w,29,0,0,0,29
+T9,PMM,15,212,Epilobium angustifolium,F,w,8,0,0,0,8
+T9,PMM,20,500,Epilobium angustifolium,F,w,76,0,0,0,76
+T9,PMM,20,212,Epilobium angustifolium,F,w,13,0,0,0,13
+T16,PMM,10,500,Epilobium angustifolium,F,w,8,0,0,3,11
+T16,PMM,20,500,Epilobium angustifolium,F,w,1,0,0,12,13
+T25,PMM,0,500,Epilobium angustifolium,F,w,13,0,0,0,13
+T25,PMM,3,500,Epilobium angustifolium,F,w,6,0,0,0,6
+T25,PMM,3,212,Epilobium angustifolium,F,w,9,0,0,0,9
+T25,PMM,5,500,Epilobium angustifolium,F,w,0,0,0,5,5
+T25,PMM,5,212,Epilobium angustifolium,F,w,9,0,0,0,9
+T25,PMM,10,212,Epilobium angustifolium,F,w,10,0,0,0,10
+T25,PMM,15,500,Epilobium angustifolium,F,w,10,0,0,0,10
+T25,PMM,15,212,Epilobium angustifolium,F,w,9,0,0,0,9
+T25,PMM,20,500,Epilobium angustifolium,F,w,0,0,0,2,2
+T25,PMM,20,212,Epilobium angustifolium,F,w,4,0,0,0,4
+T26 at D,PMM,5,500,Epilobium angustifolium,F,w,205,0,0,0,205
+T26/28?,PMM,10,212,Epilobium angustifolium,F,w,0,0,0,3,3
+T26/28?,PMM,15,500,Epilobium angustifolium,F,w,74,0,0,0,74
+T26/28?,PMM,15,212,Epilobium angustifolium,F,w,0,0,0,8,8
+T27,PMM,0,500,Epilobium angustifolium,F,w,9,0,0,0,9
+T27,PMM,0,212,Epilobium angustifolium,F,w,8,0,0,0,8
+T27,PMM,3,500,Epilobium angustifolium,F,w,30,0,0,6,36
+T27,PMM,3,212,Epilobium angustifolium,F,w,3,0,0,0,3
+T27,PMM,5,500,Epilobium angustifolium,F,w,30,0,0,0,30
+T27,PMM,5,212,Epilobium angustifolium,F,w,0,0,0,2,2
+T27,PMM,15,212,Epilobium angustifolium,F,w,18,0,0,0,18
+T27,PMM,20,500,Epilobium angustifolium,F,w,10,0,0,0,10
+T28,PMM,0,212,Epilobium angustifolium,F,w,5,0,0,0,5
+T28,PMM,20,500,Epilobium angustifolium,F,w,0,0,0,0,0
+T28,PMM,20,212,Epilobium angustifolium,F,w,0,0,0,0,0
+T29,PMM,3,500,Epilobium angustifolium,F,w,0,0,0,0,0
+T29,PMM,3,212,Epilobium angustifolium,F,w,6,0,0,0,6
+T29,PMM,10,212,Epilobium angustifolium,F,w,0,0,0,4,4
+T29 at D,PMM,20,500,Epilobium angustifolium,F,w,0,0,0,0,0
+T25,PMM,10,500,Epilobium angustifolium?,F,w,0,0,0,4,4
+T29 at D,PMM,15,500,Epilobium angustifolium?,F,w,0,0,0,4,4
+T26 at D,PMM,20,500,Epilobium cf leptophyllum,F,w,0,0,0,2,2
+T26 at D,PMM,3,500,Epilobium cf palustre,F,w,2,0,0,0,2
+T26 at D,PMM,15,212,Epilobium cilatum,F,w,5,0,0,0,5
+T5,PMM,3,500,Epilobium ciliatum,F,w,1,0,0,1,2
+T5,PMM,3,212,Epilobium ciliatum,F,w,1,0,0,1,2
+T5,PMM,20,212,Epilobium ciliatum,F,w,3,0,0,3,6
+T5,PMM,20,212,Epilobium ciliatum,F,w,0,0,0,2,2
+T6,PMM,0,350,Epilobium ciliatum,F,w,6,0,0,0,6
+T6,PMM,5,212,Epilobium ciliatum,F,w,4,0,0,0,4
+T6,PMM,5,212,Epilobium ciliatum,F,w,0,0,0,1,1
+T6,PMM,10,500,Epilobium ciliatum,F,w,12,2,0,25,39
+T6,PMM,10,212,Epilobium ciliatum,F,w,10,0,0,0,10
+T6,PMM,15,500,Epilobium ciliatum,F,w,4,0,0,0,4
+T6,PMM,15,212,Epilobium ciliatum,F,w,0,0,0,7,7
+T8,PMM,0,500,Epilobium ciliatum,F,w,1,0,0,0,1
+T8,PMM,3,500,Epilobium ciliatum,F,w,0,0,0,1,1
+T8,PMM,5,500,Epilobium ciliatum,F,w,10,0,0,0,10
+T8,PMM,5,212,Epilobium ciliatum,F,w,1,0,0,0,1
+T8,PMM,10,500,Epilobium ciliatum,F,w,2,0,0,0,2
+T8,PMM,15,500,Epilobium ciliatum,F,w,1,0,0,0,1
+T8,PMM,15,212,Epilobium ciliatum,F,w,2,0,0,2,4
+T8,PMM,20,212,Epilobium ciliatum,F,w,1,0,0,0,1
+T9,PMM,0,500,Epilobium ciliatum,F,w,2,0,0,0,2
+T9,PMM,0,212,Epilobium ciliatum,F,w,1,0,0,0,1
+T9,PMM,3,500,Epilobium ciliatum,F,w,6,0,0,0,6
+T9,PMM,3,212,Epilobium ciliatum,F,w,3,0,0,0,3
+T9,PMM,5,500,Epilobium ciliatum,F,w,2,0,0,0,2
+T9,PMM,15,500,Epilobium ciliatum,F,w,58,0,0,0,58
+T9,PMM,15,212,Epilobium ciliatum,F,w,10,0,0,0,10
+T9,PMM,20,500,Epilobium ciliatum,F,w,276,0,1,0,277
+T9,PMM,20,212,Epilobium ciliatum,F,w,26,0,0,0,26
+T16,PMM,3,500,Epilobium ciliatum,F,w,7,0,0,0,7
+T16,PMM,10,500,Epilobium ciliatum,F,w,6,0,0,0,6
+T16,PMM,20,500,Epilobium ciliatum,F,w,6,0,0,0,6
+T16,PMM,20,212,Epilobium ciliatum,F,w,3,0,0,0,3
+T25,PMM,0,500,Epilobium ciliatum,F,w,5,0,0,0,5
+T25,PMM,3,500,Epilobium ciliatum,F,w,1,0,0,0,1
+T25,PMM,3,212,Epilobium ciliatum,F,w,1,0,0,0,1
+T25,PMM,5,500,Epilobium ciliatum,F,w,1,0,0,0,1
+T25,PMM,5,212,Epilobium ciliatum,F,w,1,0,0,0,1
+T25,PMM,10,212,Epilobium ciliatum,F,w,16,0,0,0,16
+T25,PMM,15,500,Epilobium ciliatum,F,w,12,0,0,0,12
+T25,PMM,15,212,Epilobium ciliatum,F,w,1,0,0,0,1
+T25,PMM,20,500,Epilobium ciliatum,F,w,4,0,0,0,4
+T25,PMM,20,212,Epilobium ciliatum,F,w,2,0,0,0,2
+T26 at D,PMM,0,500,Epilobium ciliatum,F,w,32,0,0,0,32
+T26 at D,PMM,0,212,Epilobium ciliatum,F,w,29,0,0,0,29
+T26/28? at C,PMM,3,500,Epilobium ciliatum,F,w,46,0,1,0,47
+T26/28? at C,PMM,3,212,Epilobium ciliatum,F,w,7,0,0,8,15
+T26 at D,PMM,3,500,Epilobium ciliatum,F,w,147,0,0,1,148
+T26 at D,PMM,3,212,Epilobium ciliatum,F,w,59,0,0,0,59
+T26 at D,PMM,5,500,Epilobium ciliatum,F,w,14,0,0,0,14
+T26 at D,PMM,5,212,Epilobium ciliatum,F,w,85,0,0,0,85
+T26/28?,PMM,10,500,Epilobium ciliatum,F,w,153,0,0,0,153
+T26/28?,PMM,10,212,Epilobium ciliatum,F,w,44,0,0,0,44
+T26/28?,PMM,15,500,Epilobium ciliatum,F,w,112,0,0,0,112
+T26 at D,PMM,15,500,Epilobium ciliatum,F,w,149,0,0,0,149
+T26/28?,PMM,15,212,Epilobium ciliatum,F,w,24,0,0,0,24
+T26 at D,PMM,20,500,Epilobium ciliatum,F,w,92,0,0,3,95
+T26 at D,PMM,20,212,Epilobium ciliatum,F,w,24,0,0,0,24
+T27,PMM,0,500,Epilobium ciliatum,F,w,11,0,0,0,11
+T27,PMM,0,212,Epilobium ciliatum,F,w,11,0,0,0,11
+T27,PMM,3,500,Epilobium ciliatum,F,w,50,0,0,0,50
+T27,PMM,3,212,Epilobium ciliatum,F,w,20,0,0,0,20
+T27,PMM,5,500,Epilobium ciliatum,F,w,89,0,0,0,89
+T27,PMM,5,212,Epilobium ciliatum,F,w,53,0,0,0,53
+T27,PMM,10,500,Epilobium ciliatum,F,w,146,0,0,0,146
+T27,PMM,10,212,Epilobium ciliatum,F,w,115,0,0,0,115
+T27,PMM,15,500,Epilobium ciliatum,F,w,120,0,0,0,120
+T27,PMM,15,212,Epilobium ciliatum,F,w,270,0,0,0,270
+T27,PMM,20,500,Epilobium ciliatum,F,w,210,0,0,0,210
+T27,PMM,20,212,Epilobium ciliatum,F,w,68,0,0,0,68
+T28,PMM,20,500,Epilobium ciliatum,F,w,86,0,0,0,86
+T28,PMM,20,212,Epilobium ciliatum,F,w,53,0,0,0,53
+T29 at D,PMM,0,500,Epilobium ciliatum,F,w,2,0,0,0,2
+T29,PMM,3,500,Epilobium ciliatum,F,w,2,0,0,0,2
+T29,PMM,3,212,Epilobium ciliatum,F,w,2,0,0,0,2
+T29,PMM,5,500,Epilobium ciliatum,F,w,2,0,0,0,2
+T29,PMM,10,500,Epilobium ciliatum,F,w,3,0,0,0,3
+T29,PMM,10,212,Epilobium ciliatum,F,w,3,0,0,0,3
+T29 at D,PMM,15,500,Epilobium ciliatum,F,w,1,0,0,0,1
+T29 at D,PMM,15,212,Epilobium ciliatum,F,w,1,0,0,1,2
+T29 at D,PMM,20,500,Epilobium ciliatum,F,w,1,0,0,0,1
+T29 at D,PMM,20,212,Epilobium ciliatum,F,w,2,0,0,0,2
+T26/28?,PMM,10,500,Epilobium leptophyllum,F,w,6,0,0,0,6
+T26/28?,PMM,15,500,Epilobium leptophyllum,F,w,0,0,1,0,1
+T28,PMM,20,500,Epilobium leptophyllum Epilobium palustre,F,w,1,0,0,0,1
+T27,PMM,5,500,Epilobium other (leptophyllum),F,w,1,0,0,0,1
+T9,PMM,20,500,Epilobium other? (collected),F,w,3,0,6,0,9
+T26/28?,PMM,10,500,Epilobium palustre,F,w,1,0,1,0,2
+T28,PMM,20,500,Epilobium palustre,F,w,1,0,2,0,3
+T9,PMM,15,212,Epilobium palustre?,F,w,0,0,1,0,1
+T26 at D,PMM,10,500,Epilobium palustre?,F,w,8,0,0,0,8
+T26 at D,PMM,15,500,Epilobium palustre?,F,w,6,0,0,0,6
+T28/T26?,PMM,5,350,Epilobium sp.,F,w,1,0,1,0,2
+T26/28?,PMM,10,500,Epilobum angustifolium,F,w,97,2,0,0,99
+T26/28?,PMM,10,500,Epliobium,F,w,0,0,0,4,4
+T26/28?,PMM,10,500,Erigeron,F,w,0,0,0,1,1
+T5,PMM,3,500,Erigeron canadensis,F,w,1,0,0,1,2
+T25,PMM,15,500,Erigeron canadensis,F,w,1,0,0,0,1
+T26 at D,PMM,0,500,Erigeron canadensis,F,w,2,0,0,0,2
+T26 at D,PMM,3,500,Erigeron canadensis,F,w,1,0,0,2,3
+T26 at D,PMM,5,500,Erigeron canadensis,F,w,1,0,0,0,1
+T26/28?,PMM,10,212,Erigeron canadensis,F,w,1,0,0,1,2
+T26 at D,PMM,10,212,Erigeron canadensis,F,w,0,0,0,1,1
+T26 at D,PMM,20,500,Erigeron canadensis,F,w,1,0,0,0,1
+T28,PMM,0,500,Erigeron canadensis,F,w,1,0,0,0,1
+T27,PMM,0,500,Erigeron canadensis?,F,w,1,0,0,0,1
+T26/28?,PMM,10,500,fuzzy divided leaves,F,w,2,2,0,0,4
+T26/28?,PMM,15,500,fuzzy divided leaves,F,w,1,0,0,0,1
+T28,PMM,20,500,fuzzy divided leaves (Senecio),F,w,1,0,0,0,1
+T26/28? at C,PMM,3,500,fuzzy divided rosette = Senecio,F,w,2,2,0,0,4
+T26 at D,PMM,10,500,Fuzzy Epil cil #21,F,w,0,0,0,1,1
+T28,PMM,0,500,Epilobium cil,F,w,78,2,0,2,82
+T28,PMM,0,212,Epilobium cil,F,w,199,2,0,0,201
+T28/T26?,PMM,5,212,Epilobium cil,F,w,80,2,0,nc,82
+T28/T26?,PMM,5,350,Epilobium cil,F,w,61,0,0,0,61
+T5,FFMM,3,500,Agrostis scabra,G,w,168,0,0,0,168
+T5,FFMM,3,212,Agrostis scabra,G,w,21,0,0,5,26
+T5,FFMM,5,500,Agrostis scabra,G,w,157,0,0,0,157
+T5,FFMM,10,500,Agrostis scabra,G,w,401,0,0,0,401
+T5,FFMM,10,212,Agrostis scabra,G,w,48,0,0,0,48
+T6,FFMM,3,500,Agrostis scabra,G,w,0,0,0,1,1
+T6,FFMM,10,500,Agrostis scabra,G,w,0,0,0,4,4
+T8,FFMM,0,500,Agrostis scabra,G,w,13,0,0,4,17
+T9,FFMM,0,500,Agrostis scabra,G,w,0,0,0,1,1
+T9,FFMM,5,500,Agrostis scabra,G,w,0,0,0,4,4
+T9,FFMM,10,212,Agrostis scabra,G,w,1,0,0,0,1
+T9,FFMM,10,500,Agrostis scabra,G,w,189,0,1,9,199
+T9,FFMM,15,212,Agrostis scabra,G,w,0,0,0,2,2
+T25,FFMM,0,500,Agrostis scabra,G,w,0,0,0,2,2
+T25,FFMM,20,500,Agrostis scabra,G,w,0,0,0,6,6
+T25,FFMM,20,212,Agrostis scabra,G,w,0,0,2,2,4
+T26 at D,FFMM,0,212,Agrostis scabra,G,w,0,0,0,1,1
+T26,FFMM,3,500,Agrostis scabra,G,w,4,0,0,0,4
+T26,FFMM,5,500,Agrostis scabra,G,w,0,0,0,3,3
+T26,FFMM,5,212,Agrostis scabra,G,w,0,0,0,1,1
+T26/28?,FFMM,10,212,Agrostis scabra,G,w,0,0,0,2,2
+T26 at D,FFMM,15,500,Agrostis scabra,G,w,0,0,0,1,1
+T26,FFMM,20,500,Agrostis scabra,G,w,92,0,0,1,93
+T26,FFMM,20,212,Agrostis scabra,G,w,7,0,0,3,10
+T27,FFMM,0,350,Agrostis scabra,G,w,0,0,0,2,2
+T27,FFMM,0,212,Agrostis scabra,G,w,0,0,0,1,1
+T28,FFMM,5,500,Agrostis scabra,G,w,14,0,0,0,14
+T28,FFMM,5,212,Agrostis scabra,G,w,15,0,0,1,16
+T28,FFMM,15,500,Agrostis scabra,G,w,14,0,0,0,14
+T28,FFMM,15,212,Agrostis scabra,G,w,0,0,0,6,6
+T28,FFMM,20,500,Agrostis scabra,G,w,0,0,0,7,7
+T28,FFMM,20,212,Agrostis scabra,G,w,0,0,0,3,3
+T29,FFMM,5,500,Agrostis scabra,G,w,0,0,0,2,2
+T29,FFMM,10,500,Agrostis scabra,G,w,0,0,0,14,14
+T29,FFMM,15,500,Agrostis scabra,G,w,45,0,0,5,50
+T29,FFMM,15,212,Agrostis scabra,G,w,9,0,0,4,13
+T29,FFMM,20,500,Agrostis scabra,G,w,0,0,0,19,19
+T9,FFMM,10,500,Agrostis scabra - not as bunchy,G,w,0,0,1,0,1
+T25,FFMM,5,500,Agrostis scabra?,G,w,0,0,0,2,2
+T26 at C,FFMM,0,500,Agrostis scabra?,G,w,0,0,0,3,3
+T29,FFMM,3,500,Agrostis scabra?,G,w,8,0,0,7,15
+T26 at D,FFMM,0,500,Agrotis scabra,G,w,41,0,0,2,43
+T8,FFMM,0,500,another grass?,G,w,0,0,0,6,6
+T16,FFMM,3,500,Calamagrostis canadensis?,G,w,1,0,0,0,1
+T26 at D,FFMM,15,212,Carex sp. 1 (Typha lat?),G,w,0,0,0,1,1
+T26/28?,FFMM,10,500,Hordeum jubatum,G,W,0,0,0,1,1
+T26 at D,FFMM,15,500,Hordeum jubatum,G,w,0,0,0,1,1
+T28,FFMM,20,500,Hordeum jubatum,G,w,0,2,0,11,13
+T9,FFMM,5,500,Hordeum jubatum?,G,w,0,0,0,1,1
+T5,FFMM,3,500,Poa palustris,G,w,3,0,0,0,3
+T28,FFMM,15,500,Poa palustris,G,w,0,0,1,0,1
+T8,FFMM,10,500,red base grass,G,w,0,0,0,7,7
+T26,FFMM,5,500,red stem grass,G,w,15,0,0,7,22
+T5,FFMM,3,500,Typha latifolia,G,w,1,0,0,0,1
+T5,FFMM,3,212,Typha latifolia,G,w,1,0,0,0,1
+T26 at D,PMM,0,500,Agropyron?,G,w,0,0,0,4,4
+T9,PMM,20,212,Agrostis,G,w,5,0,0,0,5
+T5,PMM,20,212,Agrostis scabra,G,w,2,0,0,0,2
+T5,PMM,20,500,Agrostis scabra,G,w,0,0,0,2,2
+T6,PMM,15,500,Agrostis scabra,G,w,0,0,0,5,5
+T6,PMM,15,212,Agrostis scabra,G,w,0,0,0,1,1
+T8,PMM,0,500,Agrostis scabra,G,w,2,0,0,1,3
+T8,PMM,3,500,Agrostis scabra,G,w,1,0,0,0,1
+T8,PMM,5,500,Agrostis scabra,G,w,52,0,0,1,53
+T8,PMM,15,500,Agrostis scabra,G,w,1,0,0,6,7
+T8,PMM,20,212,Agrostis scabra,G,w,1,0,0,0,1
+T9,PMM,0,500,Agrostis scabra,G,w,0,0,0,2,2
+T9,PMM,0,212,Agrostis scabra,G,w,0,0,0,1,1
+T9,PMM,3,500,Agrostis scabra,G,w,2309,2,0,0,2311
+T9,PMM,3,212,Agrostis scabra,G,w,34,0,0,8,42
+T9,PMM,5,500,Agrostis scabra,G,w,1934,0,0,3,1937
+T9,PMM,5,212,Agrostis scabra,G,w,21,0,0,2,23
+T9,PMM,15,500,Agrostis scabra,G,w,8,0,0,2,10
+T9,PMM,20,500,Agrostis scabra,G,w,706,0,1,8,715
+T16,PMM,10,500,Agrostis scabra,G,w,0,0,0,1,1
+T25,PMM,0,500,Agrostis scabra,G,w,0,0,0,2,2
+T25,PMM,15,500,Agrostis scabra,G,w,0,0,0,1,1
+T26 at D,PMM,0,500,Agrostis scabra,G,w,0,0,0,4,4
+T26/28? at C,PMM,3,500,Agrostis scabra,G,w,8,0,0,11,19
+T26 at D,PMM,3,500,Agrostis scabra,G,w,0,0,0,1,1
+T26 at D,PMM,5,500,Agrostis scabra,G,w,45,0,0,2,47
+T26 at D,PMM,10,500,Agrostis scabra,G,w,0,0,0,1,1
+T27,PMM,3,500,Agrostis scabra,G,w,0,0,0,1,1
+T27,PMM,3,212,Agrostis scabra,G,w,0,0,0,1,1
+T27,PMM,5,500,Agrostis scabra,G,w,20,0,0,0,20
+T27,PMM,10,500,Agrostis scabra,G,w,296,0,0,0,296
+T27,PMM,15,500,Agrostis scabra,G,w,0,0,0,4,4
+T28,PMM,20,500,Agrostis scabra,G,w,0,0,0,8,8
+T28,PMM,20,212,Agrostis scabra,G,w,0,0,0,1,1
+T29 at D,PMM,0,500,Agrostis scabra,G,w,0,0,0,5,5
+T29,PMM,5,500,Agrostis scabra,G,w,6,0,0,0,6
+T29 at D,PMM,15,500,Agrostis scabra,G,w,0,0,0,0,0
+T29 at D,PMM,20,500,Agrostis scabra,G,w,50,0,0,10,60
+T29 at D,PMM,20,212,Agrostis scabra,G,w,0,0,0,5,5
+T26/28?,PMM,10,500,Agrostis scabra?,G,w,0,0,0,1,1
+T26/28?,PMM,15,500,Agrostis scabra?,G,w,0,0,0,2,2
+T9,PMM,15,500,Carex sp.1 = Typha latifolia?,G,w,0,0,0,10,10
+T27,PMM,15,500,Carex sp.2/Agrostis scabra?,G,w,0,0,0,2,2
+T25,PMM,20,500,Grass - assorted,G,w,0,0,0,4,4
+T27,PMM,0,500,grass (Agro sca?),G,w,0,0,0,1,1
+T28,PMM,0,500,grass (Agrostis scabra?),G,w,0,0,0,4,4
+T28/T26?,PMM,5,212,grass (Agrostis scabra?),G,w,585,2,0,3,590
+T8,PMM,10,500,grass (Poa palustris/pratensis),G,w,18,0,0,0,18
+T16,PMM,20,500,grass (red base),G,w,0,0,0,1,1
+T28/T26?,PMM,5,350,grass = Agrostis scabra?,G,w,663,2,0,8,673
+T26/28?,PMM,10,500,grass narrow leaves red base,G,w,0,0,0,1,1
+T9,PMM,20,212,grass red base Agrostis,G,w,14,0,0,3,17
+T27,PMM,15,212,grass/ other monocots,G,w,0,0,0,1,1
+T26/28?,PMM,10,500,Hordeum jubatum,G,w,0,0,0,2,2
+T6,PMM,15,500,Hordeum jubatum?,G,w,0,0,0,1,1
+T29,PMM,10,500,Non-Agrosits scabra (Poa?),G,w,0,0,1,0,1
+T26 at C,FFMM,0,500,Senecio,I,w,2,0,2,0,4
+T5,FFMM,3,500,Crepis no hair (CNH),I,w,49,0,0,0,49
+T5,FFMM,5,500,Crepis no hair (CNH),I,w,102,2,0,0,104
+T5,FFMM,3,500,Crepis tectorum,I,w,1,0,0,0,1
+T5,FFMM,10,500,Crepis tectorum,I,w,3,0,0,0,3
+T6,FFMM,3,500,Crepis tectorum,I,w,1,0,0,0,1
+T6,FFMM,10,500,Crepis tectorum,I,w,5,0,0,0,5
+T8,FFMM,0,500,Crepis tectorum,I,w,1,0,0,0,1
+T9,FFMM,0,500,Crepis tectorum,I,w,3,0,0,0,3
+T9,FFMM,3,500,Crepis tectorum,I,w,31,0,0,0,31
+T9,FFMM,3,212,Crepis tectorum,I,w,4,0,0,0,4
+T9,FFMM,10,500,Crepis tectorum,I,w,10,0,0,0,10
+T16,FFMM,3,500,Crepis tectorum,I,w,2,0,0,0,2
+T16,FFMM,5,500,Crepis tectorum,I,w,5,0,0,0,5
+T16,FFMM,10,500,Crepis tectorum,I,w,31,0,0,0,31
+T16,FFMM,10,212,Crepis tectorum,I,w,1,0,0,0,1
+T25,FFMM,0,500,Crepis tectorum,I,w,4,0,0,0,4
+T25,FFMM,3,500,Crepis tectorum,I,w,13,0,0,1,14
+T25,FFMM,5,500,Crepis tectorum,I,w,5,0,0,3,8
+T25,FFMM,10,500,Crepis tectorum,I,w,7,0,0,0,7
+T25,FFMM,15,500,Crepis tectorum,I,w,6,0,0,2,8
+T25,FFMM,20,500,Crepis tectorum,I,w,17,0,0,0,17
+T26 at C,FFMM,0,500,Crepis tectorum,I,w,8,0,0,0,8
+T26 at D,FFMM,0,500,Crepis tectorum,I,w,33,0,0,0,33
+T26,FFMM,3,500,Crepis tectorum,I,w,220,2,0,0,222
+T26,FFMM,3,500,Crepis tectorum,I,w,21,0,0,2,23
+T26,FFMM,3,500,Crepis tectorum,I,w,1,0,0,0,1
+T26,FFMM,5,500,Crepis tectorum,I,w,16,0,0,1,17
+T26/28?,FFMM,10,500,Crepis tectorum,I,w,55,0,0,0,55
+T26 at D,FFMM,10,500,Crepis tectorum,I,w,189,0,0,0,189
+T26/28?,FFMM,10,212,Crepis tectorum,I,w,1,0,0,0,1
+T26 at D,FFMM,10,212,Crepis tectorum,I,w,3,0,0,0,3
+T26 at D,FFMM,15,500,Crepis tectorum,I,w,43,0,0,2,45
+T26 at D,FFMM,15,212,Crepis tectorum,I,w,1,0,0,0,1
+T26,FFMM,20,500,Crepis tectorum,I,w,13,0,0,0,13
+T27,FFMM,3,500,Crepis tectorum,I,w,1,0,0,0,1
+T27,FFMM,10,500,Crepis tectorum,I,w,2,0,0,0,2
+T27,FFMM,15,500,Crepis tectorum,I,w,4,0,0,0,4
+T27,FFMM,20,500,Crepis tectorum,I,w,1,0,0,0,1
+T28,FFMM,5,500,Crepis tectorum,I,w,803,0,0,0,803
+T28,FFMM,5,212,Crepis tectorum,I,w,8,0,0,0,8
+T28,FFMM,15,500,Crepis tectorum,I,w,36,0,0,0,36
+T28,FFMM,15,212,Crepis tectorum,I,w,2,0,0,0,2
+T28,FFMM,20,500,Crepis tectorum,I,w,44,0,0,0,44
+T29,FFMM,3,500,Crepis tectorum,I,w,0,0,0,1,1
+T29,FFMM,5,500,Crepis tectorum,I,w,1,0,0,0,1
+T29,FFMM,10,500,Crepis tectorum,I,w,0,0,0,1,1
+T29,FFMM,20,500,Crepis tectorum,I,w,3,0,0,0,3
+T5,FFMM,5,212,Creptis tectorum,I,w,1,0,0,1,2
+T26 at C,FFMM,0,500,Lactuca seriola,I,w,1,0,0,0,1
+T26 at D,FFMM,0,500,Lactuca seriola,I,w,1,0,0,0,1
+T26 at D,FFMM,10,500,Lactuca seriola,I,w,1,0,0,0,1
+T26 at D,FFMM,15,500,Lactuca seriola,I,w,3,0,0,0,3
+T26,FFMM,20,500,Lactuca seriola,I,w,32,0,0,0,32
+T26,FFMM,20,212,Lactuca seriola,I,w,2,0,0,0,2
+T6,FFMM,10,500,Lepidium densiflorum,I,w,13,0,0,0,13
+T8,FFMM,0,500,Lepidium densiflorum,I,w,1,0,0,0,1
+T8,FFMM,5,500,Lepidium densiflorum,I,w,1,0,0,0,1
+T16,FFMM,3,500,Lepidium densiflorum,I,w,13,0,0,0,13
+T16,FFMM,5,212,Lepidium densiflorum,I,w,1,0,0,0,1
+T26 at D,FFMM,0,500,Lepidium densiflorum,I,w,27,0,0,4,31
+T26,FFMM,5,500,Lepidium densiflorum,I,w,0,0,0,3,3
+T6,FFMM,5,350,Melilotus / Medicago sp.,I,w,0,0,0,1,1
+T6,FFMM,10,500,Melilotus / Medicago sp.,I,w,0,0,0,3,3
+T5,FFMM,3,500,Melilotus sp.,I,w,1,0,0,0,1
+T9,FFMM,3,500,Melilotus sp.,I,w,0,0,0,1,1
+T6,FFMM,3,500,Melilotus sp. (alba),I,w,1,0,0,0,1
+T5,FFMM,10,212,Rorripa palustris,I,w,1,0,0,1,2
+T5,FFMM,3,500,Sonchus,I,w,20,0,0,0,20
+T5,FFMM,5,500,Sonchus,I,w,30,0,0,0,30
+T5,FFMM,5,500,Sonchus,I,w,18,5,0,0,23
+T5,FFMM,10,500,Sonchus,I,w,4,0,0,0,4
+T6,FFMM,3,500,Sonchus sp.,I,w,1,0,0,0,1
+T6,FFMM,5,350,Sonchus sp.,I,w,1,0,0,1,2
+T6,FFMM,10,500,Sonchus sp.,I,w,9,0,0,0,9
+T8,FFMM,0,500,Sonchus sp.,I,w,5,0,0,0,5
+T8,FFMM,3,500,Sonchus sp.,I,w,4,0,0,1,5
+T8,FFMM,10,500,Sonchus sp.,I,w,2,0,0,0,2
+T8,FFMM,10,212,Sonchus sp.,I,w,1,0,0,0,1
+T9,FFMM,0,500,Sonchus sp.,I,w,5,0,0,0,5
+T9,FFMM,3,500,Sonchus sp.,I,w,2,0,0,0,2
+T9,FFMM,5,500,Sonchus sp.,I,w,6,0,0,0,6
+T9,FFMM,10,500,Sonchus sp.,I,w,3,0,0,0,3
+T9,FFMM,15,500,Sonchus sp.,I,w,4,0,0,0,4
+T16,FFMM,3,500,Sonchus sp.,I,w,8,0,0,0,8
+T16,FFMM,5,500,Sonchus sp.,I,w,4,0,0,0,4
+T16,FFMM,10,500,Sonchus sp.,I,w,2,0,0,0,2
+T16,FFMM,10,212,Sonchus sp.,I,w,1,0,0,0,1
+T25,FFMM,0,500,Sonchus sp.,I,w,5,0,0,0,5
+T25,FFMM,3,500,Sonchus sp.,I,w,3,0,0,1,4
+T25,FFMM,5,500,Sonchus sp.,I,w,2,0,0,0,2
+T25,FFMM,10,500,Sonchus sp.,I,w,2,0,0,0,2
+T25,FFMM,15,500,Sonchus sp.,I,w,4,0,0,0,4
+T25,FFMM,20,500,Sonchus sp.,I,w,6,0,0,0,6
+T26 at C,FFMM,0,500,Sonchus sp.,I,w,20,0,0,0,20
+T26,FFMM,3,500,Sonchus sp.,I,w,25,2,0,,27
+T26,FFMM,5,500,Sonchus sp.,I,w,1,0,0,0,1
+T26/28?,FFMM,10,500,Sonchus sp.,I,w,20,0,0,0,20
+T26 at D,FFMM,10,500,Sonchus sp.,I,w,7,0,0,0,7
+T26,FFMM,20,500,Sonchus sp.,I,w,1,0,0,0,1
+T27,FFMM,0,350,Sonchus sp.,I,w,0,0,0,1,1
+T27,FFMM,3,500,Sonchus sp.,I,w,3,0,0,0,3
+T27,FFMM,5,500,Sonchus sp.,I,w,2,0,0,0,2
+T27,FFMM,10,500,Sonchus sp.,I,w,4,0,0,0,4
+T27,FFMM,15,500,Sonchus sp.,I,w,3,0,0,0,3
+T28,FFMM,5,500,Sonchus sp.,I,w,65,0,0,0,65
+T28,FFMM,15,500,Sonchus sp.,I,w,16,0,0,0,16
+T28,FFMM,20,500,Sonchus sp.,I,w,26,0,0,0,26
+T29,FFMM,0,500,Sonchus sp.,I,w,4,0,0,0,4
+T29,FFMM,0,212,Sonchus sp.,I,w,2,0,0,0,2
+T29,FFMM,3,500,Sonchus sp.,I,w,12,0,0,4,16
+T29,FFMM,5,500,Sonchus sp.,I,w,6,0,0,0,6
+T29,FFMM,10,500,Sonchus sp.,I,w,6,0,0,0,6
+T29,FFMM,15,500,Sonchus sp.,I,w,28,0,0,0,28
+T29,FFMM,20,500,Sonchus sp.,I,w,20,0,0,0,20
+T26,FFMM,3,212,Sonchus sp./ Crepis,I,w,0,0,0,1,1
+T9,FFMM,5,500,Taraxacum officinale,I,w,1,0,0,0,1
+T16,FFMM,10,500,Taraxacum officinale?,I,w,0,0,0,1,1
+T16,FFMM,5,500,Lepiden,I,w,2,0,0,3,5
+T6,FFMM,3,500,Urtica dioica,I,w,0,0,0,1,1
+T6,FFMM,5,350,Urtica dioica,I,w,0,0,0,1,1
+T8,FFMM,5,212,Urtica dioica,I,w,0,0,0,1,1
+T26,FFMM,5,212,Urtica dioica,I,w,0,0,0,2,2
+T9,FFMM,10,500,Urtica dioica,I,w,0,0,0,1,1
+T28/T26?,PMM,5,350,Crepis sp.,I,w,3,0,0,0,3
+T5,PMM,20,500,Crepis tectorum,I,w,0,0,0,2,2
+T6,PMM,0,350,Crepis tectorum,I,w,1,0,0,0,1
+T8,PMM,0,500,Crepis tectorum,I,w,3,0,0,0,3
+T8,PMM,10,500,Crepis tectorum,I,w,4,0,0,0,4
+T8,PMM,15,500,Crepis tectorum,I,w,1,0,0,0,1
+T9,PMM,20,500,Crepis tectorum,I,w,1,0,0,0,1
+T16,PMM,3,500,Crepis tectorum,I,w,2,0,0,0,2
+T16,PMM,10,500,Crepis tectorum,I,w,2,0,0,0,2
+T25,PMM,0,500,Crepis tectorum,I,w,3,0,0,0,3
+T25,PMM,5,500,Crepis tectorum,I,w,2,0,0,0,2
+T25,PMM,15,500,Crepis tectorum,I,w,1,0,0,0,1
+T26 at D,PMM,0,500,Crepis tectorum,I,w,50,0,0,0,50
+T26 at D,PMM,0,212,Crepis tectorum,I,w,2,0,0,0,2
+T26/28? at C,PMM,3,500,Crepis tectorum,I,w,0,0,0,3,3
+T26 at D,PMM,3,500,Crepis tectorum,I,w,22,0,0,0,22
+T26 at D,PMM,3,212,Crepis tectorum,I,w,2,0,0,0,2
+T26 at D,PMM,5,500,Crepis tectorum,I,w,7,0,0,4,11
+T26 at D,PMM,5,212,Crepis tectorum,I,w,1,0,0,0,1
+T26/28?,PMM,10,500,Crepis tectorum,I,w,3,0,0,0,3
+T26 at D,PMM,10,500,Crepis tectorum,I,w,14,0,0,1,15
+T26 at D,PMM,20,500,Crepis tectorum,I,w,1,0,0,0,1
+T27,PMM,20,500,Crepis tectorum,I,w,1,0,0,0,1
+T28,PMM,0,500,Crepis tectorum,I,w,16,2,0,0,18
+T28/T26?,PMM,5,212,Crepis tectorum,I,w,1,0,0,1,2
+T28,PMM,20,500,Crepis tectorum,I,w,1,0,0,0,1
+T29 at D,PMM,0,500,Crepis tectorum,I,w,1,0,0,0,1
+T29,PMM,3,500,Crepis tectorum,I,w,0,0,0,3,3
+T29,PMM,10,500,Crepis tectorum,I,w,2,0,0,0,2
+T9,PMM,0,500,Creptis tectorum,I,w,2,0,0,0,2
+T26 at D,PMM,15,500,Creptis tectorum,I,w,20,0,0,14,34
+T26 at D,PMM,3,500,Lactuca seriola,I,w,1,0,0,0,1
+T26/28?,PMM,10,500,Lactuca seriola,I,w,1,0,0,0,1
+T26 at D,PMM,15,500,Lactuca seriola,I,w,1,0,0,0,1
+T6,PMM,0,350,Lepidium densiflorum,I,w,11,0,0,0,11
+T8,PMM,0,500,Lepidium densiflorum,I,w,1,0,0,0,1
+T16,PMM,10,500,Lepidium densiflorum,I,w,1,0,0,0,1
+T25,PMM,15,500,Lepidium densiflorum,I,w,0,0,0,1,1
+T26 at D,PMM,0,500,Lepidium densiflorum,I,w,20,0,0,2,22
+T26 at D,PMM,3,500,Lepidium densiflorum,I,w,0,0,0,1,1
+T27,PMM,5,500,Lepidium densiflorum,I,w,1,0,0,0,1
+T27,PMM,10,500,Lepidium densiflorum,I,w,15,0,0,0,15
+T27,PMM,10,212,Lepidium densiflorum,I,w,0,0,0,1,1
+T27,PMM,15,500,Lepidium densiflorum,I,w,19,0,0,0,19
+T27,PMM,20,500,Lepidium densiflorum,I,w,1,0,0,0,1
+T29,PMM,3,500,Lepidium densiflorum,I,w,1,0,0,0,1
+T26/28?,PMM,15,500,Lepidium densiflorum?,I,w,0,0,0,1,1
+T8,PMM,3,500,Lyrate mustard,I,w,1,0,0,1,2
+T8,PMM,3,500,Lyrate mustard Rorippa palustris,I,w,1,0,0,0,1
+T8,PMM,10,500,Melilotus sp.,I,w,0,0,0,1,1
+T8,PMM,10,500,Rorippa palustris,I,w,1,0,0,0,1
+T9,PMM,15,500,Rorippa palustris,I,w,0,0,1,0,1
+T8,PMM,5,500,Rorippa palustris (#6),I,w,0,0,0,4,4
+T27,PMM,10,500,Rorippa ralustris,I,w,0,0,0,1,1
+T5,PMM,3,500,Sonchus,I,w,13,0,0,0,13
+T5,PMM,20,500,Sonchus sp.,I,w,23,0,0,1,24
+T6,PMM,0,350,Sonchus sp.,I,w,27,0,0,0,27
+T6,PMM,5,212,Sonchus sp.,I,w,1,0,0,0,1
+T6,PMM,10,500,Sonchus sp.,I,w,30,2,0,0,32
+T6,PMM,15,500,Sonchus sp.,I,w,8,0,0,0,8
+T8,PMM,0,500,Sonchus sp.,I,w,3,0,0,0,3
+T8,PMM,3,500,Sonchus sp.,I,w,3,0,0,0,3
+T8,PMM,5,500,Sonchus sp.,I,w,16,0,0,0,16
+T8,PMM,10,500,Sonchus sp.,I,w,3,0,0,0,3
+T8,PMM,15,500,Sonchus sp.,I,w,12,0,0,0,12
+T8,PMM,20,500,Sonchus sp.,I,w,1,0,0,0,1
+T9,PMM,0,500,Sonchus sp.,I,w,5,0,0,0,5
+T9,PMM,3,500,Sonchus sp.,I,w,2,0,0,0,2
+T9,PMM,5,500,Sonchus sp.,I,w,0,0,0,4,4
+T9,PMM,15,500,Sonchus sp.,I,w,8,0,0,0,8
+T9,PMM,20,500,Sonchus sp.,I,w,2,0,0,0,2
+T16,PMM,3,500,Sonchus sp.,I,w,3,0,0,0,3
+T16,PMM,10,500,Sonchus sp.,I,w,3,0,0,0,3
+T16,PMM,20,500,Sonchus sp.,I,w,13,0,0,0,13
+T25,PMM,0,500,Sonchus sp.,I,w,11,0,0,0,11
+T25,PMM,3,500,Sonchus sp.,I,w,1,0,0,0,1
+T25,PMM,5,500,Sonchus sp.,I,w,3,0,0,0,3
+T25,PMM,10,212,Sonchus sp.,I,w,2,0,0,0,2
+T25,PMM,15,500,Sonchus sp.,I,w,4,0,0,0,4
+T25,PMM,20,500,Sonchus sp.,I,w,4,0,0,0,4
+T26 at D,PMM,0,500,Sonchus sp.,I,w,5,0,0,0,5
+T26/28? at C,PMM,3,500,Sonchus sp.,I,w,19,0,0,0,19
+T26 at D,PMM,5,500,Sonchus sp.,I,w,2,0,0,0,2
+T26/28?,PMM,10,500,Sonchus sp.,I,w,44,0,0,0,44
+T26 at D,PMM,10,500,Sonchus sp.,I,w,1,0,0,0,1
+T26/28?,PMM,15,500,Sonchus sp.,I,w,33,0,0,0,33
+T26 at D,PMM,15,500,Sonchus sp.,I,w,2,0,0,0,2
+T26 at D,PMM,20,500,Sonchus sp.,I,w,2,0,0,0,2
+T27,PMM,0,500,Sonchus sp.,I,w,3,0,0,0,3
+T27,PMM,3,500,Sonchus sp.,I,w,5,0,0,0,5
+T27,PMM,5,500,Sonchus sp.,I,w,19,0,0,0,19
+T27,PMM,15,500,Sonchus sp.,I,w,2,0,0,0,2
+T27,PMM,20,500,Sonchus sp.,I,w,2,0,0,0,2
+T28,PMM,0,500,Sonchus sp.,I,w,19,3,0,0,22
+T28/T26?,PMM,5,350,Sonchus sp.,I,w,8,0,0,0,8
+T28,PMM,20,500,Sonchus sp.,I,w,16,0,0,0,16
+T29 at D,PMM,0,500,Sonchus sp.,I,w,23,0,0,1,24
+T29,PMM,3,500,Sonchus sp.,I,w,13,0,0,1,14
+T29,PMM,5,500,Sonchus sp.,I,w,25,0,0,0,25
+T29,PMM,10,500,Sonchus sp.,I,w,30,0,0,0,30
+T29 at D,PMM,15,500,Sonchus sp.,I,w,10,0,0,0,10
+T29 at D,PMM,20,500,Sonchus sp.,I,w,9,0,0,0,9
+T28/T26?,PMM,5,350,Sonchus sp. / Crepis sp.,I,w,0,0,0,0,0
+T28/T26?,PMM,5,212,Sonchus sp.?,I,w,1,0,0,0,1
+T5,PMM,3,212,Stinging nettle,I,w,1,0,0,0,1
+T5,PMM,3,500,Urtic dioca,I,w,28,0,0,0,28
+T6,PMM,10,212,Urtica dioica,I,w,0,0,0,1,1
+T8,PMM,3,212,Urtica dioica,I,w,1,0,0,0,1
+T8,PMM,5,500,Urtica dioica,I,w,0,0,0,4,4
+T8,PMM,15,212,Urtica dioica,I,w,0,0,0,1,1
+T9,PMM,15,500,Urtica dioica,I,w,1,0,0,0,1
+T9,PMM,15,212,Urtica dioica,I,w,1,0,0,0,1
+T16,PMM,3,500,Urtica dioica,I,w,0,0,0,1,1
+T16,PMM,10,500,Urtica dioica,I,w,0,0,0,1,1
+T16,PMM,20,500,Urtica dioica,I,w,2,0,0,0,2
+T26 at D,PMM,3,500,Urtica dioica,I,w,0,0,0,1,1
+T26/28?,PMM,10,212,Urtica dioica,I,w,1,0,0,1,2
+T26 at D,PMM,10,212,Urtica dioica,I,w,0,0,0,1,1
+T28/T26?,PMM,5,350,Urtica dioica,I,w,0,0,0,1,1
+T26/28?,PMM,10,500,Senecio,I,w,,,,,4
+T26/28?,PMM,15,500,Senecio,I,w,,,,,1
+T28,PMM,20,500,Senecio,I,w,,,,,1
+T26/28? at C,PMM,3,500,Senecio,I,w,,,,,4
+T25,PMM,20,212,Aspen,T,w,2,0,0,0,2
+T6,PMM,5,212,Aspen?,T,w,1,0,0,0,1
+T16,PMM,20,500,conifer,T,w,1,0,0,1,2
+T26/28? at C,PMM,3,500,conifer,T,w,0,0,0,1,1
+T27,PMM,0,500,Picea sp.,T,w,0,0,0,1,1
+T9,PMM,20,212,Populus tremuiloides,T,w,0,0,0,3,3
+T8,PMM,5,500,Populus tremuloides,T,w,0,0,0,20,20
+T8,PMM,10,500,Populus tremuloides,T,w,3,0,0,0,3
+T9,PMM,15,212,Populus tremuloides,T,w,1,0,0,0,1
+T29,FFMM,5,212,Populus tremuloides,T,w,1,0,0,0,1
+T29,PMM,3,212,Populus tremuloides,T,w,1,0,0,5,6
+T26/28?,PMM,10,212,Populus tremuloides (ash ?),T,w,0,0,0,1,1
+T9,PMM,0,500,Populus tremuloides?,T,w,0,0,0,1,1
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,32812

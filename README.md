@@ -5,16 +5,24 @@ This repository holds a bank of test datasets. Most of them illustrate a particu
 In each folder, there's a file for uploading and downloading the data package.
 The uploading is done using `datapack`, downloading is done with a curl command in `download.sh`. All of the datasets are public, so visiting the URL in the first portion of the cURL command will suffice (you'll want to connect to the VPN).
 
+## Other Notes
+
+All of the examples 
+
+1. Use `datapack` one way or another (one could wrap `datapack` like `rdataone`)
+2. Upload single files, file by file. This is most likely _not_ an efficient workflow for uploading packages with many files and will need to be automated.
+
+
 ### Prerequisites
 
-1. Add your token to RStudio the standard way
-2. Connect to the UCSB VPN
+1. Connect to the UCSB VPN
+2. Add your token to RStudio the standard way from probable-cattle.
 
 ## Folders
 
-`input-output/`: A basic package showing package struture
+`input-output/`: A basic package showing an upload script that references data in existing folders
 
-`Evaluation_of_a_2-season_banding_program_to_estimate_seasonal_and_annual_survival_probabilities`: Uses prov:atLocation to specify the directories
+`Evaluation_of_a_2-season_banding_program_to_estimate_seasonal_and_annual_survival_probabilities`: 
 
 `datacite/`: An example of a package using the datacite format
 
