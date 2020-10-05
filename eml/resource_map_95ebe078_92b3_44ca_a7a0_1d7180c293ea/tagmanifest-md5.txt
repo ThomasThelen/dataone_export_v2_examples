@@ -4,10 +4,10 @@ cc056c022616400ccce6e0480fa0bbb0  metadata/sysmeta/sysmeta-82c21595-4c4e-48d7-be
 bc32d97975c4efeed755585e681d3864  metadata/eml.xml
 b26e0c2f6851717e89ba5ace9a58daea  metadata/sysmeta/sysmeta-resource_map_95ebe078-92b3-44ca-a7a0-1d7180c293ea.xml
 934aabddadd7fb37541b92df73f2b8b4  metadata/sysmeta/sysmeta-e9957875-5500-4d33-94e1-367b069660e2.xml
-51ee604d6dc461ab506dfd456751e49c  metadata/oai-ore.xml
+ca283a23d753df2feee2be8488e59aa1  metadata/oai-ore.xml
 05f7ae0d12d3f4919a5ee6db3367b895  metadata/sysmeta/sysmeta-11ede213-a987-4ee8-b61a-71d1f979a44b.xml
 169553d4f51cbbed98e73677d0e58aba  metadata/sysmeta/sysmeta-95ebe078-92b3-44ca-a7a0-1d7180c293ea.xml
-44680a045e742c8247a2315a0d5b24ed  manifest-md5.txt
+d5d3fe1abbf6f3eca0108f932322e50a  manifest-md5.txt
 e4cea41f8fafa6c1ad16631f536862d1  metadata/sysmeta/sysmeta-18fa4e4c-2bab-43fa-92a2-b79eba8937bb.xml
 a633908db8f4e49eefdc86b14e7f56e2  bag-info.txt
 9e5ad981e0d29adc278f6a294b8c2aca  bagit.txt
