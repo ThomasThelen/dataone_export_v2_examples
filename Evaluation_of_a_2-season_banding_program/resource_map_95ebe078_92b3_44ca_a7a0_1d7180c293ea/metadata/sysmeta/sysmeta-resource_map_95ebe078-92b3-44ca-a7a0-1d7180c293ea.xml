@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:systemMetadata xmlns:ns2="http://ns.dataone.org/service/types/v1" xmlns:ns3="http://ns.dataone.org/service/types/v2.0">
+    <serialVersion>0</serialVersion>
+    <identifier>resource_map_95ebe078-92b3-44ca-a7a0-1d7180c293ea</identifier>
+    <formatId>http://www.openarchives.org/ore/terms</formatId>
+    <size>16401</size>
+    <checksum algorithm="SHA-1">59b9d7dec7752f81d42b8299cf0e581d8679a33f</checksum>
+    <submitter>http://orcid.org/0000-0002-1756-2128</submitter>
+    <rightsHolder>http://orcid.org/0000-0002-1756-2128</rightsHolder>
+    <accessPolicy>
+        <allow>
+            <subject>public</subject>
+            <permission>read</permission>
+        </allow>
+        <allow>
+            <subject>https://orcid.org/0000-0002-1756-2128</subject>
+            <permission>changePermission</permission>
+        </allow>
+    </accessPolicy>
+    <replicationPolicy replicationAllowed="true" numberReplicas="3"/>
+    <archived>false</archived>
+    <dateUploaded>2020-10-01T16:42:58.399+00:00</dateUploaded>
+    <dateSysMetadataModified>2020-10-01T16:42:58.399+00:00</dateSysMetadataModified>
+    <originMemberNode>urn:node:METACAT_TEST</originMemberNode>
+    <authoritativeMemberNode>urn:node:METACAT_TEST</authoritativeMemberNode>
+    <fileName>8074e345-41a0-4aab-9d03-b53d7a4884b3.rdf6d954c263f4</fileName>
+</ns3:systemMetadata>
